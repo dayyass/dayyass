@@ -8,7 +8,7 @@ I’m currently studying for a Master’s degree in Applied Mathematics and Comp
 In my spare time, I like to learn something new about Deep Learning and implement different models with PyTorch. For more information, please visit my [blog](https://dayyass.github.io).
 
 ### My Github stats
-[![Dani's github stats](https://github-readme-stats.vercel.app/api?username=dayyass)](https://github.com/anuraghazra/github-readme-stats)
+[![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dayyass)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dayyass/dayyass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
