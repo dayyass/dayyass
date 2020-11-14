@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, my name is Dani 👋
+
+[![Linkedin: dayyass](https://img.shields.io/badge/-Dani%20El%E2%80%90Ayyass-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayyass/)](https://www.linkedin.com/in/dayyass/)
+![Profile views](https://gpvc.arturio.dev/dayyass)
+
+I’m currently studying for a Master’s degree in Applied Mathematics and Computer Science at Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics. I’m also working as a Deep Learning Engineer at MTS AI.
+
+In my spare time, I like to learn something new about Deep Learning and implement different models with PyTorch. For more information, please visit my [blog](https://dayyass.github.io).
+
+### My Github stats
+[![Dani's github stats](https://github-readme-stats.vercel.app/api?username=dayyass)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dayyass/dayyass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
