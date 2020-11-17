@@ -7,6 +7,30 @@ I’m currently studying for a Master’s degree in Applied Mathematics and Comp
 
 In my spare time, I like to learn something new about Deep Learning and implement different models with PyTorch. For more information, please visit my [blog](https://dayyass.github.io).
 
+### Work experience
+- Research assistant @ [Plekhanov Russian University of Economics](https://www.rea.ru/en/Pages/default.aspx) (01.12.2018 — 01.01.2020),
+- Data science intern @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.07.2018 — 01.12.2018),
+- Data scientist @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.02.2019 — 01.05.2020),
+- Deep learning engineer @ MTS AI (01.05.2020 — until now).
+
+More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/),
+
+### Conference participation
+- [IX International Scientific and Practical Conference named after A.I. Kitov "Information Technologies and Mathematical Methods in Economics and Management"](https://it-mm.rea.ru/uploads/arhiv/2019/sertificat/299.pdf) (More about conference [here](https://it-mm.rea.ru/eng)).
+
+### Certifications
+- [Introduction to Machine Learning](https://www.coursera.org/account/accomplishments/certificate/DPLHFXLT94L5) on Coursera
+- [Supervised Learning](https://www.coursera.org/account/accomplishments/certificate/AQTVYCMJEHRU) on Coursera
+- [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) on Coursera
+- [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) on Coursera
+<br/>
+
+- [Linux introduction](https://stepik.org/cert/144831) at Stepik
+- [Version Control with Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM) on Coursera
+- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) at Stepik
+
+
+
 ### My Github stats
 [![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dayyass)](https://github.com/anuraghazra/github-readme-stats)
 
