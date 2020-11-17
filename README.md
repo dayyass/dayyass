@@ -13,7 +13,7 @@ In my spare time, I like to learn something new about Deep Learning and implemen
 - Data scientist @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.02.2019 — 01.05.2020),
 - Deep learning engineer @ MTS AI (01.05.2020 — until now).
 
-More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/),
+More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Conference participation
 - [IX International Scientific and Practical Conference named after A.I. Kitov "Information Technologies and Mathematical Methods in Economics and Management"](https://it-mm.rea.ru/uploads/arhiv/2019/sertificat/299.pdf) (More about conference [here](https://it-mm.rea.ru/eng)).
@@ -23,12 +23,11 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/
 - [Supervised Learning](https://www.coursera.org/account/accomplishments/certificate/AQTVYCMJEHRU) on Coursera
 - [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) on Coursera
 - [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) on Coursera
-<br/>
-
 - [Linux introduction](https://stepik.org/cert/144831) at Stepik
 - [Version Control with Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM) on Coursera
 - [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) at Stepik
 
+More certifications in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 
 ### My Github stats
