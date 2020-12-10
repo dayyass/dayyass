@@ -1,6 +1,7 @@
 ### Hi, my name is Dani 👋
 
 [![Linkedin: dayyass](https://img.shields.io/badge/-Dani%20El%E2%80%90Ayyass-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayyass/)](https://www.linkedin.com/in/dayyass/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/d_ayyass?label=Follow)](https://twitter.com/d_ayyass)
 ![Profile views](https://gpvc.arturio.dev/dayyass)
 
 I’m currently studying for a Master’s degree in Applied Mathematics and Computer Science at Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics. I’m also working as a Deep Learning Engineer at MTS AI.
