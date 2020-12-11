@@ -20,7 +20,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/
 - [IX International Scientific and Practical Conference named after A.I. Kitov "Information Technologies and Mathematical Methods in Economics and Management"](https://it-mm.rea.ru/uploads/arhiv/2019/sertificat/299.pdf) (More about conference [here](https://it-mm.rea.ru/eng)).
 
 ### Hackathon participation
-- [Synthetic Health Data Hackathon 2020](https://rh.biolib.com/event/synthetic-health-data-2020) Alzheimer's MRI Analysis (our [solution](https://biolib.com/Gardariki-Hack/Gardariki-Hack) with [Nikita Baranov](https://www.linkedin.com/in/nbar/) and [Anastasia Tabalina](https://github.com/TabalinaAnastasia)).
+- [Synthetic Health Data Hackathon 2020](https://rh.biolib.com/event/synthetic-health-data-2020) Alzheimer's MRI Analysis (our [solution](https://biolib.com/Gardariki-Hack/Gardariki-Hack) and [code](https://github.com/dayyass/synthetic_health_data_hackathon_2020) with [Nikita Baranov](https://www.linkedin.com/in/nbar/) and [Anastasia Tabalina](https://github.com/TabalinaAnastasia)).
 
 ### Certifications
 - [Introduction to Machine Learning](https://www.coursera.org/account/accomplishments/certificate/DPLHFXLT94L5) on Coursera
