@@ -12,7 +12,7 @@ In my spare time, I like to learn something new about Deep Learning and implemen
 - Research assistant @ [Plekhanov Russian University of Economics](https://www.rea.ru/en/Pages/default.aspx) (01.12.2018 — 01.01.2020),
 - Data science intern @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.07.2018 — 01.12.2018),
 - Data scientist @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.02.2019 — 01.05.2020),
-- Deep learning engineer @ MTS AI Lab (01.05.2020 — until now).
+- NLP engineer @ MTS AI Lab (01.05.2020 — until now).
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
