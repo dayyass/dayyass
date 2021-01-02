@@ -6,7 +6,7 @@
 
 I’m currently studying for a Master’s degree in Applied Mathematics and Computer Science at Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics. I’m also working as a NLP Engineer at MTS AI.
 
-In my spare time, I like to learn something new about Deep Learning and implement different models with PyTorch. One example is Named Entity Recognition [pipeline](https://github.com/dayyass/pytorch_ner) and Neural Machine Translation [repo](https://github.com/dayyass/stanford_neural_machine_translation). For more information, please visit my [blog](https://dayyass.github.io).
+In my spare time, I like to learn something new about Deep Learning and implement different models with PyTorch. One example is Named Entity Recognition [pipeline](https://github.com/dayyass/pytorch_ner) and Neural Machine Translation [repo](https://github.com/dayyass/neural_machine_translation). For more information, please visit my [blog](https://dayyass.github.io).
 
 ### Work experience
 - Research assistant @ [Plekhanov Russian University of Economics](https://www.rea.ru/en/Pages/default.aspx) (01.12.2018 — 01.01.2020),
