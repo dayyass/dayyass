@@ -14,6 +14,7 @@ In my spare time, I like to learn something new about Deep Learning and implemen
 - [language_modeling](https://github.com/dayyass/language_modeling) - Language Modeling pipeline
 - [calculus_of_variations](https://github.com/dayyass/calculus_of_variations) - bachelor project on solving the Calculus of Variations problems
 - [pytorch_tutorials](https://github.com/dayyass/pytorch_tutorials) - different Deep Learning tasks solved using PyTorch models
+- [project_euler](https://github.com/dayyass/project_euler) - solutions to Project Euler problems
 
 ### Work experience
 - Research assistant @ [Plekhanov Russian University of Economics](https://www.rea.ru/en/Pages/default.aspx) (01.12.2018 — 01.01.2020)
