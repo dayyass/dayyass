@@ -8,6 +8,13 @@ I’m currently studying for a Master’s degree in Applied Mathematics and Comp
 
 In my spare time, I like to learn something new about Deep Learning and implement different models with PyTorch. One example is Named Entity Recognition [pipeline](https://github.com/dayyass/pytorch_ner) and Neural Machine Translation [repo](https://github.com/dayyass/neural_machine_translation). For more information, please visit my [blog](https://dayyass.github.io).
 
+### Pet-projects
+- [pytorch_ner](https://github.com/dayyass/pytorch_ner) - pipeline for training NER models using PyTorch,
+- [neural_machine_translation](https://github.com/dayyass/neural_machine_translation) - Stanford Seq2seq Neural Machine Translation,
+- [language_modeling](https://github.com/dayyass/language_modeling) - Language Modeling pipeline,
+- [calculus_of_variations](https://github.com/dayyass/calculus_of_variations) - bachelor project on solving the Calculus of Variations problems,
+- [pytorch_tutorials](https://github.com/dayyass/pytorch_tutorials) - different Deep Learning tasks solved using PyTorch models.
+
 ### Work experience
 - Research assistant @ [Plekhanov Russian University of Economics](https://www.rea.ru/en/Pages/default.aspx) (01.12.2018 — 01.01.2020),
 - Data science intern @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.07.2018 — 01.12.2018),
