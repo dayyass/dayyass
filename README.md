@@ -9,25 +9,25 @@ I’m currently studying for a Master’s degree in Applied Mathematics and Comp
 In my spare time, I like to learn something new about Deep Learning and implement different models with PyTorch. For more information, please visit my **pet-projects** and [blog](https://dayyass.github.io).
 
 ### Pet-projects
-- [pytorch_ner](https://github.com/dayyass/pytorch_ner) - pipeline for training NER models using PyTorch,
-- [neural_machine_translation](https://github.com/dayyass/neural_machine_translation) - Stanford Seq2seq Neural Machine Translation,
-- [language_modeling](https://github.com/dayyass/language_modeling) - Language Modeling pipeline,
-- [calculus_of_variations](https://github.com/dayyass/calculus_of_variations) - bachelor project on solving the Calculus of Variations problems,
-- [pytorch_tutorials](https://github.com/dayyass/pytorch_tutorials) - different Deep Learning tasks solved using PyTorch models.
+- [pytorch_ner](https://github.com/dayyass/pytorch_ner) - pipeline for training NER models using PyTorch
+- [neural_machine_translation](https://github.com/dayyass/neural_machine_translation) - Stanford Seq2seq Neural Machine Translation
+- [language_modeling](https://github.com/dayyass/language_modeling) - Language Modeling pipeline
+- [calculus_of_variations](https://github.com/dayyass/calculus_of_variations) - bachelor project on solving the Calculus of Variations problems
+- [pytorch_tutorials](https://github.com/dayyass/pytorch_tutorials) - different Deep Learning tasks solved using PyTorch models
 
 ### Work experience
-- Research assistant @ [Plekhanov Russian University of Economics](https://www.rea.ru/en/Pages/default.aspx) (01.12.2018 — 01.01.2020),
-- Data science intern @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.07.2018 — 01.12.2018),
-- Data scientist @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.02.2019 — 01.05.2020),
-- NLP engineer @ MTS AI Lab (01.05.2020 — until now).
+- Research assistant @ [Plekhanov Russian University of Economics](https://www.rea.ru/en/Pages/default.aspx) (01.12.2018 — 01.01.2020)
+- Data science intern @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.07.2018 — 01.12.2018)
+- Data scientist @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.02.2019 — 01.05.2020)
+- NLP engineer @ MTS AI Lab (01.05.2020 — until now)
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Conference participation
-- [IX International Scientific and Practical Conference named after A.I. Kitov "Information Technologies and Mathematical Methods in Economics and Management"](https://it-mm.rea.ru/uploads/arhiv/2019/sertificat/299.pdf) (More about conference [here](https://it-mm.rea.ru/eng)).
+- [IX International Scientific and Practical Conference named after A.I. Kitov "Information Technologies and Mathematical Methods in Economics and Management"](https://it-mm.rea.ru/uploads/arhiv/2019/sertificat/299.pdf) (More about conference [here](https://it-mm.rea.ru/eng))
 
 ### Hackathon participation
-- [Synthetic Health Data Hackathon 2020](https://rh.biolib.com/event/synthetic-health-data-2020) Alzheimer's MRI Analysis (our [solution](https://biolib.com/Gardariki-Hack/Gardariki-Hack) and [code](https://github.com/dayyass/synthetic_health_data_hackathon_2020) with [Nikita Baranov](https://www.linkedin.com/in/nbar/) and [Anastasia Tabalina](https://github.com/TabalinaAnastasia)).
+- [Synthetic Health Data Hackathon 2020](https://rh.biolib.com/event/synthetic-health-data-2020) Alzheimer's MRI Analysis (our [solution](https://biolib.com/Gardariki-Hack/Gardariki-Hack) and [code](https://github.com/dayyass/synthetic_health_data_hackathon_2020) with [Nikita Baranov](https://www.linkedin.com/in/nbar/) and [Anastasia Tabalina](https://github.com/TabalinaAnastasia))
 
 ### Certifications
 - [Introduction to Machine Learning](https://www.coursera.org/account/accomplishments/certificate/DPLHFXLT94L5) on Coursera
@@ -41,7 +41,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/
 More certifications in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Awards
-- [Open Data Science](https://ods.ai) Best Contributor 2020.
+- [Open Data Science](https://ods.ai) Best Contributor 2020
 
 
 ### Github Stats
