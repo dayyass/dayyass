@@ -19,11 +19,17 @@ In my spare time, I like to learn something new about Deep Learning and implemen
 - [project_euler](https://github.com/dayyass/project_euler) - solutions to Project Euler problems
 - [gists](https://gist.github.com/dayyass) - GitHub Gists
 
+### Education
+- Bachelor's degree in Applied Mathematics and Computer Science at [Plekhanov Russian University of Economics](https://www.rea.ru) (2015 - 2019)
+- Master’s degree in Applied Mathematics and Computer Science at [Lomonosov Moscow State University](https://www.msu.ru/index.php) (2019 - 2022)
+
+More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
+
 ### Work experience
-- Research assistant @ [Plekhanov Russian University of Economics](https://www.rea.ru/en/Pages/default.aspx) (01.12.2018 — 01.01.2020)
+- Research assistant @ [Plekhanov Russian University of Economics](https://www.rea.ru) (01.12.2018 — 01.01.2020)
 - Data science intern @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.07.2018 — 01.12.2018)
 - Data scientist @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.02.2019 — 01.05.2020)
-- NLP engineer @ MTS AI Lab (01.05.2020 — until now)
+- NLP engineer @ [MTS AI Lab](https://moskva.mts.ru/about/media-centr/soobshheniya-kompanii/novosti-mts-v-rossii-i-mire/2020-03-02/mts-i-skolteh-otkryli-laboratoriyu-iskusstvennogo-intellekta) (01.05.2020 — until now)
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
