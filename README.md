@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/d_ayyass?label=Follow)](https://twitter.com/d_ayyass)
 -->
 
-I’m currently studying for a Master’s degree in Applied Mathematics and Computer Science at Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics. I’m also working as a NLP Engineer at MTS AI.
+I’m currently studying for a Master’s degree in Applied Mathematics and Computer Science at Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics. I’m also working as a Deep Learning Engineer at MTS AI.
 
 In my spare time, I like to learn something new about Deep Learning and implement different models with PyTorch. For more information, please visit my **pet-projects** and [blog](https://dayyass.github.io).
 
@@ -30,7 +30,8 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - Research assistant @ [Plekhanov Russian University of Economics](https://www.rea.ru) (01.12.2018 — 01.01.2020)
 - Data science intern @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.07.2018 — 01.12.2018)
 - Data scientist @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.02.2019 — 01.05.2020)
-- NLP engineer @ [MTS AI Lab](https://moskva.mts.ru/about/media-centr/soobshheniya-kompanii/novosti-mts-v-rossii-i-mire/2020-03-02/mts-i-skolteh-otkryli-laboratoriyu-iskusstvennogo-intellekta) (01.05.2020 — until now)
+- NLP engineer @ [MTS AI Lab](https://moskva.mts.ru/about/media-centr/soobshheniya-kompanii/novosti-mts-v-rossii-i-mire/2020-03-02/mts-i-skolteh-otkryli-laboratoriyu-iskusstvennogo-intellekta) (01.05.2020 — 01.01.2021)
+- CV engineer @ [MTS AI Lab](https://moskva.mts.ru/about/media-centr/soobshheniya-kompanii/novosti-mts-v-rossii-i-mire/2020-03-02/mts-i-skolteh-otkryli-laboratoriyu-iskusstvennogo-intellekta) (01.01.2021 — until now)
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
