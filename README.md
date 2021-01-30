@@ -10,6 +10,13 @@ I’m currently studying for a Master’s degree in Applied Mathematics and Comp
 
 In my spare time, I like to learn something new about Deep Learning and implement different models with PyTorch. For more information, please visit my **pet-projects** and [blog](https://dayyass.github.io).
 
+### Skills
+- **Languages**: Python
+- **DS/ML/DL**:  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
+- **DBMS**:      Oracle Database (PL/SQL), Microsoft SQL Server (Transact-SQL)
+- **Big Data**:  Hadoop, Hive, Spark
+- **DevOpsv**:    Linux, Git, Docker, CI/CD
+
 ### Pet-projects
 - [pytorch_ner](https://github.com/dayyass/pytorch_ner) - pipeline for training NER models using PyTorch
 - [language_modeling](https://github.com/dayyass/language_modeling) - pipeline for training Language Models using PyTorch
