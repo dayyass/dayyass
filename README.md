@@ -8,7 +8,7 @@
 
 I’m currently studying for a Master’s degree in Applied Mathematics and Computer Science at Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics. I’m also working as a Deep Learning Engineer at MTS AI.
 
-In my spare time, I like to learn something new about Deep Learning and implement different models with PyTorch. For more information, please visit my **pet-projects** and [blog](https://dayyass.github.io).
+In my spare time, I like to learn something new about Deep Learning and implement different models with PyTorch. For more information, please visit my [pet-projects](https://github.com/dayyass/dayyass/blob/main/README.md#pet-projects) and [blog](https://dayyass.github.io).
 
 ### Skills
 - **Languages**: Python
