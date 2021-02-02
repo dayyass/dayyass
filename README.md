@@ -15,7 +15,7 @@ In my spare time, I like to learn something new about Deep Learning and implemen
 - **DS/ML/DL**:  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
 - **DBMS**:      Oracle Database (PL/SQL), Microsoft SQL Server (Transact-SQL)
 - **Big Data**:  Hadoop, Hive, Spark
-- **DevOpsv**:    Linux, Git, Docker, CI/CD
+- **DevOps**:    Linux, Git, Docker, CI/CD
 
 ### Pet-projects
 - [PyTorch NER](https://github.com/dayyass/pytorch_ner) - pipeline for training NER models using PyTorch
