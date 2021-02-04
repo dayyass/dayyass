@@ -11,11 +11,11 @@ I’m currently studying for a Master’s degree in Applied Mathematics and Comp
 In my spare time, I like to learn something new about Deep Learning and implement different models with PyTorch. For more information, please visit my [pet-projects](https://github.com/dayyass/dayyass/blob/main/README.md#pet-projects) and [blog](https://dayyass.github.io).
 
 ### Skills
-- **Languages**: Python
+- **Languages**: [Python](https://www.coursera.org/account/accomplishments/certificate/NWZB93Q9CXY3), [SQL](https://www.coursera.org/account/accomplishments/certificate/VZE7GT5HHXNZ)
 - **DS/ML/DL**:  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
 - **DBMS**:      Oracle Database (PL/SQL), Microsoft SQL Server (Transact-SQL)
-- **Big Data**:  Hadoop, Hive, Spark
-- **DevOps**:    Linux, Git, Docker, CI/CD
+- **Big Data**:  [Hadoop, Hive, Spark](https://stepik.org/cert/166893)
+- **DevOps**:    [Linux](https://stepik.org/cert/144831), [Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM), Docker, CI/CD
 
 ### Pet-projects
 - [PyTorch NER](https://github.com/dayyass/pytorch_ner) - pipeline for training NER models using PyTorch
