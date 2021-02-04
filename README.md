@@ -43,7 +43,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Conference participation
-- [IX International Scientific and Practical Conference named after A.I. Kitov "Information Technologies and Mathematical Methods in Economics and Management"](https://it-mm.rea.ru/eng) (Certification [here](https://it-mm.rea.ru/uploads/arhiv/2019/sertificat/299.pdf))
+- [IX International Scientific and Practical Conference named after A.I. Kitov "Information Technologies and Mathematical Methods in Economics and Management"](https://it-mm.rea.ru/eng) (certification [here](https://it-mm.rea.ru/uploads/arhiv/2019/sertificat/299.pdf))
 - [Deep and Machine Learning methods for document clustering and classification](https://indico-hlit.jinr.ru/event/146/overview) tutorial in frames of [The XXIII International Scientific Conference of Young Scientists and Specialists (AYSS-2019)](https://indico.jinr.ru/event/756/)
 
 ### Hackathon participation
