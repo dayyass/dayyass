@@ -35,8 +35,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Work experience 👔
 - Research Assistant @ [Plekhanov Russian University of Economics](https://www.rea.ru) (01.12.2018 — 01.01.2020)
-- Data Scientist Intern @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.07.2018 — 01.12.2018)
-- Data Scientist @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.02.2019 — 01.05.2020)
+- Data Scientist @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.07.2018 — 01.05.2020)
 - NLP Engineer @ [MTS AI Lab](https://moskva.mts.ru/about/media-centr/soobshheniya-kompanii/novosti-mts-v-rossii-i-mire/2020-03-02/mts-i-skolteh-otkryli-laboratoriyu-iskusstvennogo-intellekta) (01.05.2020 — 01.02.2021)
 - NLP Research Engineer @ [Tinkoff AI Lab](https://www.tinkoff.ru) (01.02.2021 — until now)
 
