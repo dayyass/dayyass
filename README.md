@@ -53,7 +53,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/
 - [Introduction to Machine Learning](https://www.coursera.org/account/accomplishments/certificate/DPLHFXLT94L5) on Coursera
 - [Supervised Learning](https://www.coursera.org/account/accomplishments/certificate/AQTVYCMJEHRU) on Coursera
 - [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) on Coursera
-- [Bayesian Methods for Machine Learning](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) on Coursera
+- [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) on Coursera
 - [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) on Coursera
 - [Linux introduction](https://stepik.org/cert/144831) at Stepik
 - [Version Control with Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM) on Coursera
