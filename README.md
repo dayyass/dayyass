@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/d_ayyass?label=Follow)](https://twitter.com/d_ayyass)
 -->
 
-I’m currently studying for a Master’s degree in Applied Mathematics and Computer Science at [Lomonosov Moscow State University](https://www.msu.ru/index.php), [Faculty of Computational Mathematics and Cybernetics](https://cs.msu.ru). I’m also working as a Deep Learning Engineer at [Tinkoff AI Lab](https://www.tinkoff.ru).
+I’m currently studying for a Master’s degree in Applied Mathematics and Computer Science at [Lomonosov Moscow State University](https://www.msu.ru/index.php), [Faculty of Computational Mathematics and Cybernetics](https://cs.msu.ru). I’m also working as a Senior NLP Research Engineer at [Sber AI](https://www.sberbank.ru/en/about/about_sberbank).
 
 In my spare time, I like to learn something new about Deep Learning and implement different models with PyTorch. For more information, please visit my [pet-projects](https://github.com/dayyass/dayyass/blob/main/README.md#pet-projects) and [blog](https://dayyass.github.io).
 
@@ -37,7 +37,8 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - Research Assistant @ [Plekhanov Russian University of Economics](https://www.rea.ru) (01.12.2018 — 01.01.2020)
 - Data Scientist @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.07.2018 — 01.05.2020)
 - NLP Engineer @ [MTS AI Lab](https://moskva.mts.ru/about/media-centr/soobshheniya-kompanii/novosti-mts-v-rossii-i-mire/2020-03-02/mts-i-skolteh-otkryli-laboratoriyu-iskusstvennogo-intellekta) (01.05.2020 — 01.02.2021)
-- NLP Research Engineer @ [Tinkoff AI Lab](https://www.tinkoff.ru) (01.02.2021 — until now)
+- Senior NLP Research Engineer @ [Tinkoff AI Lab](https://www.tinkoff.ru) (01.02.2021 — 01.04.2021)
+- Senior NLP Research Engineer @ [Sber AI](https://www.sberbank.ru/en/about/about_sberbank) (01.04.2021 — until now)
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
@@ -52,6 +53,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/
 - [Introduction to Machine Learning](https://www.coursera.org/account/accomplishments/certificate/DPLHFXLT94L5) on Coursera
 - [Supervised Learning](https://www.coursera.org/account/accomplishments/certificate/AQTVYCMJEHRU) on Coursera
 - [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) on Coursera
+- [Bayesian Methods for Machine Learning](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) on Coursera
 - [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) on Coursera
 - [Linux introduction](https://stepik.org/cert/144831) at Stepik
 - [Version Control with Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM) on Coursera
