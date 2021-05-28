@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/d_ayyass?label=Follow)](https://twitter.com/d_ayyass)
 -->
 
-I’m currently studying for a Master’s degree in Applied Mathematics and Computer Science at [Lomonosov Moscow State University](https://www.msu.ru/index.php), [Faculty of Computational Mathematics and Cybernetics](https://cs.msu.ru). I’m also working as a Senior NLP Research Engineer at [Sber AI](https://www.sberbank.ru/en/about/about_sberbank).
+I’m currently studying for a Master’s degree in Applied Mathematics and Computer Science at [Lomonosov Moscow State University](https://www.msu.ru/index.php), [Faculty of Computational Mathematics and Cybernetics](https://cs.msu.ru). I’m also working as a Senior NLP Engineer at [Sber AI](https://www.sberbank.ru/en/about/about_sberbank).
 
 In my spare time, I like to learn something new about Deep Learning and implement different models with PyTorch. For more information, please visit my [pet-projects](https://github.com/dayyass/dayyass/blob/main/README.md#pet-projects) and [blog](https://dayyass.github.io).
 
@@ -38,7 +38,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - Data Scientist @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.07.2018 — 01.05.2020)
 - NLP Engineer @ [MTS AI Lab](https://moskva.mts.ru/about/media-centr/soobshheniya-kompanii/novosti-mts-v-rossii-i-mire/2020-03-02/mts-i-skolteh-otkryli-laboratoriyu-iskusstvennogo-intellekta) (01.05.2020 — 01.02.2021)
 - Senior NLP Research Engineer @ [Tinkoff AI Lab](https://www.tinkoff.ru) (01.02.2021 — 01.04.2021)
-- Senior NLP Research Engineer @ [Sber AI](https://www.sberbank.ru/en/about/about_sberbank) (01.04.2021 — until now)
+- Senior NLP Engineer @ [Sber AI](https://www.sberbank.ru/en/about/about_sberbank) (01.04.2021 — until now)
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
