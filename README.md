@@ -15,9 +15,10 @@ In my spare time, I like to learn something new about Deep Learning and implemen
 - **DS/ML/DL**:  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
 - **DBMS**:      Oracle Database (PL/SQL), Microsoft SQL Server (Transact-SQL)
 - **Big Data**:  [Hadoop, Hive, Spark](https://stepik.org/cert/166893)
-- **DevOps**:    [Linux](https://stepik.org/cert/144831), [Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM), Docker, CI/CD
+- **DevOps**:    [Linux](https://stepik.org/cert/144831), [Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM), Docker, CI
 
 ### Pet-projects 🐾
+- [Extended Naive Bayes](https://github.com/dayyass/extended_naive_bayes) - extention of [sklearn naive bayes](http://scikit-learn.org/stable/modules/naive_bayes.html) models that allows sampling and more feature distributions
 - [PyTorch NER](https://github.com/dayyass/pytorch_ner) - pipeline for training NER models using PyTorch
 - [Language Modeling](https://github.com/dayyass/language_modeling) - pipeline for training Language Models using PyTorch
 - [Neural Machine Translation](https://github.com/dayyass/neural_machine_translation) - pipeline for training Stanford Seq2seq Neural Machine Translation using PyTorch
