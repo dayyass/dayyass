@@ -22,7 +22,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/
 ### Education 🎓
 - Master’s degree in Applied Mathematics and Computer Science at [Lomonosov Moscow State University](https://www.msu.ru/index.php) (2019 - 2022)
 - Bachelor's degree in Applied Mathematics and Computer Science at [Plekhanov Russian University of Economics](https://www.rea.ru) (2015 - 2019)<br>
-Diploma thesis: ["Assessment of credit organizations borrowers' default rate"](https://github.com/dayyass/bachelor_diploma/blob/main/diploma.pdf) ([diploma](https://github.com/dayyass/bachelor_diploma/blob/main/diploma.pdf) and [code](https://github.com/dayyass/bachelor_diploma))
+Diploma thesis: ["Assessment of credit organizations borrowers' default rate"](https://github.com/dayyass/bachelor_diploma/blob/main/diploma.pdf) ([diploma](https://github.com/dayyass/bachelor_diploma/blob/main/diploma.pdf), [presentation](https://github.com/dayyass/bachelor_diploma/blob/main/presentation.pdf) and [code](https://github.com/dayyass/bachelor_diploma))
 
 More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
