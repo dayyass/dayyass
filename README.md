@@ -50,7 +50,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) on Coursera
 - [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) on Coursera
 - [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) on Coursera
-- [Linux introduction](https://stepik.org/cert/144831) at Stepik
+- [Introduction to Linux](https://stepik.org/cert/144831) at Stepik
 - [Version Control with Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM) on Coursera
 - [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) at Stepik
 
