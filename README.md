@@ -45,14 +45,14 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - **DevOps**:    [Linux](https://stepik.org/cert/144831), [Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM), Docker, CI
 
 ### Certifications 📜
-- [Introduction to Machine Learning](https://www.coursera.org/account/accomplishments/certificate/DPLHFXLT94L5) on Coursera
-- [Supervised Learning](https://www.coursera.org/account/accomplishments/certificate/AQTVYCMJEHRU) on Coursera
-- [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) on Coursera
-- [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) on Coursera
-- [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) on Coursera
-- [Introduction to Linux](https://stepik.org/cert/144831) at Stepik
-- [Version Control with Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM) on Coursera
-- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) at Stepik
+- [Introduction to Machine Learning](https://www.coursera.org/account/accomplishments/certificate/DPLHFXLT94L5) @ Coursera
+- [Supervised Learning](https://www.coursera.org/account/accomplishments/certificate/AQTVYCMJEHRU) @ Coursera
+- [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
+- [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
+- [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
+- [Introduction to Linux](https://stepik.org/cert/144831) @ Stepik
+- [Version Control with Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM) @ Coursera
+- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ Stepik
 
 More certifications in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
