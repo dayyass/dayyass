@@ -13,8 +13,8 @@ In my spare time, I like to learn something new about Deep Learning and implemen
 ### Work experience 👔
 - **Senior NLP Engineer** @ [**Sber AI**](https://www.sberbank.ru/en/about/about_sberbank) (01.04.2021 — until now)
 - Senior NLP Research Engineer @ [Tinkoff AI Lab](https://www.tinkoff.ru) (01.02.2021 — 01.04.2021)
-- NLP Engineer @ [MTS AI Lab](https://moskva.mts.ru/about/media-centr/soobshheniya-kompanii/novosti-mts-v-rossii-i-mire/2020-03-02/mts-i-skolteh-otkryli-laboratoriyu-iskusstvennogo-intellekta) (01.05.2020 — 01.02.2021)
-- Data Scientist @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.07.2018 — 01.05.2020)
+- Middle NLP Engineer @ [MTS AI Lab](https://moskva.mts.ru/about/media-centr/soobshheniya-kompanii/novosti-mts-v-rossii-i-mire/2020-03-02/mts-i-skolteh-otkryli-laboratoriyu-iskusstvennogo-intellekta) (01.05.2020 — 01.02.2021)
+- Junior Data Scientist @ [Sberbank](https://www.sberbank.ru/en/about/about_sberbank) (01.07.2018 — 01.05.2020)
 - Research Assistant @ [Plekhanov Russian University of Economics](https://www.rea.ru) (01.12.2018 — 01.01.2020)
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
