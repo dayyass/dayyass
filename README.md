@@ -28,6 +28,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Pet-projects 🐾
 - [**Extended Naive Bayes**](https://github.com/dayyass/extended_naive_bayes) - extention of [sklearn naive bayes](http://scikit-learn.org/stable/modules/naive_bayes.html) models that allows sampling and more feature distributions
+- [**MUSE as Service**](https://github.com/dayyass/muse_as_service) - REST API for sentence tokenization and embedding using Multilingual Universal Sentence Encoder
 - [**PyTorch NER**](https://github.com/dayyass/pytorch_ner) - pipeline for training NER models using PyTorch
 - [Language Modeling](https://github.com/dayyass/language_modeling) - pipeline for training Language Models using PyTorch
 - [Neural Machine Translation](https://github.com/dayyass/neural_machine_translation) - pipeline for training Stanford Seq2seq Neural Machine Translation using PyTorch
