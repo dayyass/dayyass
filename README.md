@@ -28,7 +28,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Pet-projects 🐾
 - [**Extended Naive Bayes**](https://github.com/dayyass/extended_naive_bayes) - extention of [sklearn naive bayes](http://scikit-learn.org/stable/modules/naive_bayes.html) models that allows sampling and more feature distributions
-- [**MUSE as Service**](https://github.com/dayyass/muse_as_service) - REST API for sentence tokenization and embedding using Multilingual Universal Sentence Encoder
+- [**MUSE as Service**](https://github.com/dayyass/muse_as_service) - REST API for sentence tokenization and embedding using Multilingual Universal Sentence Encoder (Docker Hub [image](https://hub.docker.com/r/dayyass/muse_as_service))
 - [**PyTorch NER**](https://github.com/dayyass/pytorch_ner) - pipeline for training NER models using PyTorch
 - [**Calculus of Variations**](https://github.com/dayyass/calculus_of_variations) - bachelor project on solving the Calculus of Variations problems
 - [Language Modeling](https://github.com/dayyass/language_modeling) - pipeline for training Language Models using PyTorch
