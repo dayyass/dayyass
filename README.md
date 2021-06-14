@@ -9,7 +9,7 @@
 
 I’m currently studying for a **Master’s degree** in Applied Mathematics and Computer Science at [Lomonosov Moscow State University](https://www.msu.ru/index.php), [Faculty of Computational Mathematics and Cybernetics](https://cs.msu.ru). I’m also working as a **Senior NLP Engineer** at [Sber AI](https://www.sberbank.ru/en/about/about_sberbank).
 
-In my spare time, I like to learn something new about Deep Learning and implement different models with PyTorch. For more information, please visit my [pet-projects](https://github.com/dayyass/dayyass/blob/main/README.md#pet-projects) and [blog](https://dayyass.github.io).
+In my spare time, I like to learn something new about Deep Learning and implement different models with PyTorch. For more information, please visit my [pet-projects](https://github.com/dayyass#pet-projects-) and [blog](https://dayyass.github.io).
 
 ### Work experience 👔
 - **Senior NLP Engineer** @ [**Sber AI**](https://www.sberbank.ru/en/about/about_sberbank) (01.04.2021 — until now)
