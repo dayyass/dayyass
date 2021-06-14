@@ -39,10 +39,6 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - [Project Euler](https://github.com/dayyass/project_euler) - solutions to Project Euler problems
 - [Gists](https://gist.github.com/dayyass) - GitHub Gists
 
-**If you like what I do, maybe consider buying me a coffee/tea** 😇❤️‍🔥
-
-<a href="https://www.buymeacoffee.com/dayyass" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 ### Skills 🛠️
 - **Languages**: [Python](https://www.coursera.org/account/accomplishments/certificate/NWZB93Q9CXY3), [SQL](https://www.coursera.org/account/accomplishments/certificate/VZE7GT5HHXNZ)
 - **DS/ML/DL**:  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
@@ -71,6 +67,9 @@ More certifications in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Hackathon participation 💻
 - [Synthetic Health Data Hackathon 2020](https://rh.biolib.com/event/synthetic-health-data-2020) Alzheimer's MRI Analysis (our [solution](https://biolib.com/Gardariki-Hack/Gardariki-Hack) and [code](https://github.com/dayyass/synthetic_health_data_hackathon_2020) with [Nikita Baranov](https://www.linkedin.com/in/nbar/) and [Anastasia Tabalina](https://github.com/TabalinaAnastasia))
+
+### If you like what I do, maybe consider buying me a coffee/tea 😇❤️‍🔥
+<a href="https://www.buymeacoffee.com/dayyass" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ### Github Stats ⭐
 [![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dayyass)](https://github.com/anuraghazra/github-readme-stats)
