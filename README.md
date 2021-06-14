@@ -3,9 +3,6 @@
 [![Twitter: dayyass](https://img.shields.io/twitter/follow/d_ayyass?label=Follow)](https://twitter.com/d_ayyass)
 [![Linkedin: dayyass](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayyass/)](https://www.linkedin.com/in/dayyass/)
 ![Profile views](https://gpvc.arturio.dev/dayyass)
-<!--
-[![Twitter Follow](https://img.shields.io/twitter/follow/d_ayyass?label=Follow)](https://twitter.com/d_ayyass)
--->
 
 I’m currently studying for a **Master’s degree** in Applied Mathematics and Computer Science at *Lomonosov Moscow State University*, *Faculty of Computational Mathematics and Cybernetics*.<br>
 I’m also working as a **Senior NLP Engineer** at *Sber AI*.
@@ -24,7 +21,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/
 ### Education 🎓
 - **Master’s degree** in Applied Mathematics and Computer Science at *Lomonosov Moscow State University* (2019 - 2022)
 - Bachelor's degree in Applied Mathematics and Computer Science at *Plekhanov Russian University of Economics* (2015 - 2019)<br>
-**Diploma thesis**: [*"Assessment of credit organizations borrowers' default rate"*](https://github.com/dayyass/bachelor_diploma)
+**Diploma thesis**: *"Assessment of credit organizations borrowers' default rate"* ([link](https://github.com/dayyass/bachelor_diploma))
 
 More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
