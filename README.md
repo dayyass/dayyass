@@ -1,7 +1,7 @@
 ### Hi, my name is Dani 👋
 
 [![Twitter: dayyass](https://img.shields.io/twitter/follow/d_ayyass?label=Follow)](https://twitter.com/d_ayyass)
-[![Linkedin: dayyass](https://img.shields.io/badge/-Dani%20El%E2%80%90Ayyass-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayyass/)](https://www.linkedin.com/in/dayyass/)
+[![Linkedin: dayyass](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayyass/)](https://www.linkedin.com/in/dayyass/)
 ![Profile views](https://gpvc.arturio.dev/dayyass)
 <!--
 [![Twitter Follow](https://img.shields.io/twitter/follow/d_ayyass?label=Follow)](https://twitter.com/d_ayyass)
