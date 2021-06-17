@@ -20,7 +20,7 @@ My solutions for *Home Assignments* for *Machine Learning Job Interviews*: [link
 
 ### Education 🎓
 - **Master’s degree** in Applied Mathematics and Computer Science at *Lomonosov Moscow State University* (2019 - 2022)
-- Bachelor's degree in Applied Mathematics and Computer Science at *Plekhanov Russian University of Economics* (2015 - 2019)<br>
+- **Bachelor's degree** in Applied Mathematics and Computer Science at *Plekhanov Russian University of Economics* (2015 - 2019)<br>
 **Diploma thesis**: *"Assessment of credit organizations borrowers' default rate"* ([link](https://github.com/dayyass/bachelor_diploma))
 
 More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
