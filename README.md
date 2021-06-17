@@ -37,7 +37,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - [Image Captioning](https://github.com/dayyass/image_captioning) - trained Image Captioning model deployed as [telegram bot](https://t.me/dayyass_image_captioning_bot)
 - [PyTorch Tutorials](https://github.com/dayyass/pytorch_tutorials) - different Deep Learning tasks solved using PyTorch models
 - [Project Euler](https://github.com/dayyass/project_euler) - solutions to Project Euler problems
-- [Gists](https://gist.github.com/dayyass) - GitHub Gists
+- [Gists](https://gist.github.com/dayyass) - small experiments and useful functions
 
 ### Skills 🛠️
 - **Languages**: [Python](https://www.coursera.org/account/accomplishments/certificate/NWZB93Q9CXY3), [SQL](https://www.coursera.org/account/accomplishments/certificate/VZE7GT5HHXNZ)
