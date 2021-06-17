@@ -15,7 +15,8 @@ In my spare time, I like to learn something new about *Machine Learning / Deep L
 - Junior Data Scientist @ *Sberbank* (01.07.2018 — 01.05.2020)
 - Research Assistant @ *Plekhanov Russian University of Economics* (01.12.2018 — 01.01.2020)
 
-More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
+More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/).<br>
+My solutions for *Home Assignments* for *Machine Learning Job Interviews*: [link](https://github.com/dayyass/ml_interviews)
 
 ### Education 🎓
 - **Master’s degree** in Applied Mathematics and Computer Science at *Lomonosov Moscow State University* (2019 - 2022)
