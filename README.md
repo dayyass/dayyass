@@ -2,8 +2,8 @@
 ![](https://img.shields.io/github/followers/dayyass?style=social)
 ![](https://img.shields.io/github/stars/dayyass?style=social)
 
-![](https://img.shields.io/badge/-Follow-black?style=social&logo=Linkedin&link=https://www.linkedin.com/in/dayyass)
-![](https://img.shields.io/twitter/follow/d_ayyass?style=social&label=Follow&link=https://twitter.com/d_ayyass)
+[![](https://img.shields.io/badge/-Follow-black?style=social&logo=Linkedin)](https://www.linkedin.com/in/dayyass)
+[![](https://img.shields.io/twitter/follow/d_ayyass?style=social&label=Follow)](https://twitter.com/d_ayyass)
 
 ### Hi, my name is Dani 👋
 I’m currently studying for a **Master’s degree** in Applied Mathematics and Computer Science at *Lomonosov Moscow State University*, *Faculty of Computational Mathematics and Cybernetics*.<br>
