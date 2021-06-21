@@ -1,5 +1,6 @@
 [![Twitter: dayyass](https://img.shields.io/twitter/follow/d_ayyass?label=Follow)](https://twitter.com/d_ayyass)
 [![Linkedin: dayyass](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayyass/)](https://www.linkedin.com/in/dayyass/)
+[![GitHub: dayyass](https://img.shields.io/github/followers/dayyass?label=follow&style=social)](https://github.com/dayyass)
 ![Profile views](https://gpvc.arturio.dev/dayyass)
 
 ### Hi, my name is Dani 👋
