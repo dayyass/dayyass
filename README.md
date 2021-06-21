@@ -1,9 +1,9 @@
-![Profile views: dayyass](https://komarev.com/ghpvc/?username=dayyass&color=6aa6f8)<br>
-![GitHub: dayyass](https://img.shields.io/github/followers/dayyass?style=social)
-![GitHub: dayyass](https://img.shields.io/github/stars/dayyass?style=social)
+![](https://komarev.com/ghpvc/?username=dayyass&color=6aa6f8)
+![](https://img.shields.io/github/followers/dayyass?style=social)
+![](https://img.shields.io/github/stars/dayyass?style=social)
 
-[![Linkedin: dayyass](https://img.shields.io/badge/-Follow-black?style=social&logo=Linkedin)](https://www.linkedin.com/in/dayyass/)
-[![Twitter: dayyass](https://img.shields.io/twitter/follow/d_ayyass?style=social&label=Follow)](https://twitter.com/d_ayyass)<br>
+![](https://img.shields.io/badge/-Follow-black?style=social&logo=Linkedin&link=https://www.linkedin.com/in/dayyass)
+![](https://img.shields.io/twitter/follow/d_ayyass?style=social&label=Follow&link=https://twitter.com/d_ayyass)
 
 ### Hi, my name is Dani 👋
 I’m currently studying for a **Master’s degree** in Applied Mathematics and Computer Science at *Lomonosov Moscow State University*, *Faculty of Computational Mathematics and Cybernetics*.<br>
@@ -43,6 +43,13 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - [Gists](https://gist.github.com/dayyass) - small experiments and useful functions
 
 ### Skills 🛠️
+![](https://img.shields.io/badge/Code-Python-informational?logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/VCS-Git-informational?logo=git&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+
 - **Languages**: [Python](https://www.coursera.org/account/accomplishments/certificate/NWZB93Q9CXY3), [SQL](https://www.coursera.org/account/accomplishments/certificate/VZE7GT5HHXNZ)
 - **DS/ML/DL**:  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
 - **DBMS**:      Oracle Database (PL/SQL), Microsoft SQL Server (Transact-SQL)
