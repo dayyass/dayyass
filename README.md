@@ -1,9 +1,9 @@
-![Profile views](https://gpvc.arturio.dev/dayyass?style=social)
-[![GitHub: dayyass](https://img.shields.io/github/stars/dayyass?label=Stars&style=social)](https://github.com/dayyass)
+![Profile views: dayyass](https://komarev.com/ghpvc/?username=dayyass&color=blue)<br>
+![GitHub: dayyass](https://img.shields.io/github/followers/dayyass?style=social)
+![GitHub: dayyass](https://img.shields.io/github/stars/dayyass?style=social)
 
-[![Linkedin: dayyass](https://img.shields.io/badge/-Follow-black?style=social&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/dayyass/)
-[![GitHub: dayyass](https://img.shields.io/github/followers/dayyass?label=Follow&style=social)](https://github.com/dayyass)
-[![Twitter: dayyass](https://img.shields.io/twitter/follow/d_ayyass?label=Follow&style=social)](https://twitter.com/d_ayyass)
+[![Linkedin: dayyass](https://img.shields.io/badge/-Follow-black?style=social&logo=Linkedin)](https://www.linkedin.com/in/dayyass/)
+[![Twitter: dayyass](https://img.shields.io/twitter/follow/d_ayyass?style=social&label=Follow)](https://twitter.com/d_ayyass)<br>
 
 ### Hi, my name is Dani 👋
 I’m currently studying for a **Master’s degree** in Applied Mathematics and Computer Science at *Lomonosov Moscow State University*, *Faculty of Computational Mathematics and Cybernetics*.<br>
