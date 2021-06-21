@@ -1,7 +1,9 @@
-[![Twitter: dayyass](https://img.shields.io/twitter/follow/d_ayyass?label=Follow)](https://twitter.com/d_ayyass)
-[![Linkedin: dayyass](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayyass/)](https://www.linkedin.com/in/dayyass/)
-[![GitHub: dayyass](https://img.shields.io/github/followers/dayyass?label=follow&style=social)](https://github.com/dayyass)
-![Profile views](https://gpvc.arturio.dev/dayyass)
+![Profile views](https://gpvc.arturio.dev/dayyass?style=social)
+[![GitHub: dayyass](https://img.shields.io/github/stars/dayyass?label=Stars&style=social)](https://github.com/dayyass)
+
+[![Linkedin: dayyass](https://img.shields.io/badge/-Follow-black?style=social&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/dayyass/)](https://www.linkedin.com/in/dayyass/)
+[![GitHub: dayyass](https://img.shields.io/github/followers/dayyass?label=Follow&style=social)](https://github.com/dayyass)
+[![Twitter: dayyass](https://img.shields.io/twitter/follow/d_ayyass?label=Follow&style=social)](https://twitter.com/d_ayyass)
 
 ### Hi, my name is Dani 👋
 I’m currently studying for a **Master’s degree** in Applied Mathematics and Computer Science at *Lomonosov Moscow State University*, *Faculty of Computational Mathematics and Cybernetics*.<br>
