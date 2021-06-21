@@ -1,4 +1,4 @@
-![Profile views: dayyass](https://komarev.com/ghpvc/?username=dayyass&color=blue)<br>
+![Profile views: dayyass](https://komarev.com/ghpvc/?username=dayyass&color=6aa6f8)<br>
 ![GitHub: dayyass](https://img.shields.io/github/followers/dayyass?style=social)
 ![GitHub: dayyass](https://img.shields.io/github/stars/dayyass?style=social)
 
