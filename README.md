@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/dayyass?style=social)
 [![GitHub: dayyass](https://img.shields.io/github/stars/dayyass?label=Stars&style=social)](https://github.com/dayyass)
 
-[![Linkedin: dayyass](https://img.shields.io/badge/-Follow-black?style=social&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/dayyass/)](https://www.linkedin.com/in/dayyass/)
+[![Linkedin: dayyass](https://img.shields.io/badge/-Follow-black?style=social&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/dayyass/)
 [![GitHub: dayyass](https://img.shields.io/github/followers/dayyass?label=Follow&style=social)](https://github.com/dayyass)
 [![Twitter: dayyass](https://img.shields.io/twitter/follow/d_ayyass?label=Follow&style=social)](https://twitter.com/d_ayyass)
 
