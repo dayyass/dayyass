@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=dayyass&color=6aa6f8)
+![](https://komarev.com/ghpvc/?username=dayyass&color=6aa6f8)<br>
 ![](https://img.shields.io/github/followers/dayyass?style=social)
 ![](https://img.shields.io/github/stars/dayyass?style=social)
 
