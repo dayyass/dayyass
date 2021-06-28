@@ -43,6 +43,11 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - [Project Euler](https://github.com/dayyass/project_euler) - solutions to Project Euler problems
 - [Gists](https://gist.github.com/dayyass) - small experiments and useful functions
 
+### Contributions 💡
+- [GAN-for-tabular-data](https://github.com/Diyago/GAN-for-tabular-data) - GANs for tabular data
+- [Grokking Algorithms](https://github.com/egonSchiele/grokking_algorithms) - excellent, fully illustrated book about algorithms
+- [AllenNLP Guide](https://github.com/allenai/allennlp-guide) - code and material for the AllenNLP Guide
+
 ### Skills 🛠️
 <!-- ![](https://img.shields.io/badge/Code-Python-informational?logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
