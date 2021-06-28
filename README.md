@@ -5,11 +5,12 @@
 [![](https://img.shields.io/badge/-Follow-black?style=social&logo=Linkedin)](https://www.linkedin.com/in/dayyass)
 [![](https://img.shields.io/twitter/follow/d_ayyass?style=social&label=Follow)](https://twitter.com/d_ayyass)
 
-### Hi, my name is Dani 👋
+### Hi, my name is Dani 👋 and I ❤️ open-source
+### 
 I’m currently studying for a **Master’s degree** in Applied Mathematics and Computer Science at *Lomonosov Moscow State University*, *Faculty of Computational Mathematics and Cybernetics*.<br>
 I’m also working as a **Senior NLP Engineer** at *Sber AI*.
 
-In my spare time, I like to learn something new about *Machine Learning / Deep Learning* and implement different models. For more information, please visit my [pet-projects](https://github.com/dayyass#pet-projects-) and [blog](https://dayyass.github.io).
+In my spare time, I like to learn something new about *Machine Learning / Deep Learning* and implement different models. For more information, please visit my [projects](https://github.com/dayyass#projects-) and [blog](https://dayyass.github.io).
 
 ### Work experience 👔
 - **Senior NLP Engineer** @ *Sber AI* (01.04.2021 — until now)
@@ -28,7 +29,7 @@ My solutions for *Home Assignments* for *Machine Learning Job Interviews*: [link
 
 More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
-### Pet-projects 🐾
+### Projects 🐾
 #### Main
 - [Extended Naive Bayes](https://github.com/dayyass/extended_naive_bayes) - extension of sklearn naive bayes models that allows sampling and more feature distributions
 - [MUSE as Service](https://github.com/dayyass/muse_as_service) - REST API for sentence tokenization and embedding using Multilingual Universal Sentence Encoder
