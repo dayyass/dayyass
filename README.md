@@ -31,7 +31,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Projects 🐾
 #### Main
-- [Extended Naive Bayes](https://github.com/dayyass/extended_naive_bayes) - extension of sklearn naive bayes models that allows sampling and more feature distributions
+<!-- - [Extended Naive Bayes](https://github.com/dayyass/extended_naive_bayes) - extension of sklearn naive bayes models that allows sampling and more feature distributions -->
 - [MUSE as Service](https://github.com/dayyass/muse_as_service) - REST API for sentence tokenization and embedding using Multilingual Universal Sentence Encoder
 - [PyTorch NER](https://github.com/dayyass/pytorch_ner) - pipeline for training NER models using PyTorch
 - [Calculus of Variations](https://github.com/dayyass/calculus_of_variations) - bachelor project on solving the Calculus of Variations problems
