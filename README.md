@@ -6,10 +6,10 @@
 [![](https://img.shields.io/twitter/follow/d_ayyass?style=social&label=Follow)](https://twitter.com/d_ayyass)
 
 ### Hi, my name is Dani 👋 and I ❤️ open-source
-I’m currently studying for a **Master’s degree** in Applied Mathematics and Computer Science at *Lomonosov Moscow State University*, *Faculty of Computational Mathematics and Cybernetics*.<br>
-I’m also working as a **Senior NLP Engineer** at *Sber AI*.
+I’m currently studying for a **Master’s degree** in Applied Mathematics and Computer Science at Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics.<br>
+I’m also working as a **Senior NLP Engineer** at Sber AI.
 
-In my spare time, I like to learn something new about *Machine Learning / Deep Learning* and implement different models. For more information, please visit my [projects](https://github.com/dayyass#projects-) and [blog](https://dayyass.github.io).
+In my spare time, I like to learn something new about **Machine Learning / Deep Learning** and implement different models. For more information, please visit my [projects](https://github.com/dayyass#projects-).
 
 ### Work experience 👔
 | Job Position                 | Company                                    | Work Period             |
@@ -21,12 +21,12 @@ In my spare time, I like to learn something new about *Machine Learning / Deep L
 | Research Assistant           | Plekhanov Russian University of Economics  | 01.12.2018 — 01.01.2020 |
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/).<br>
-My solutions for *Home Assignments* for *Machine Learning Job Interviews*: [link](https://github.com/dayyass/ml_interviews)
+My solutions for Home Assignments for **Machine Learning Job Interviews**: [link](https://github.com/dayyass/ml_interviews)
 
 ### Education 🎓
-- **Master’s degree** in Applied Mathematics and Computer Science at *Lomonosov Moscow State University* (2019 - 2022)
-- **Bachelor's degree** in Applied Mathematics and Computer Science at *Plekhanov Russian University of Economics* (2015 - 2019)<br>
-**Diploma thesis**: *"Assessment of credit organizations borrowers' default rate"* ([link](https://github.com/dayyass/bachelor_diploma))
+- **Master’s degree** in Applied Mathematics and Computer Science at Lomonosov Moscow State University (2019 - 2022)
+- **Bachelor's degree** in Applied Mathematics and Computer Science at Plekhanov Russian University of Economics (2015 - 2019)<br>
+[Diploma thesis](https://github.com/dayyass/bachelor_diploma): "Assessment of credit organizations borrowers' default rate"
 
 More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
@@ -39,7 +39,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 #### Additional
 - [Neural Machine Translation](https://github.com/dayyass/neural_machine_translation) - pipeline for training Stanford Seq2seq Neural Machine Translation using PyTorch
 - [Language Modeling](https://github.com/dayyass/language_modeling) - pipeline for training Language Models using PyTorch
-- [Image Captioning](https://github.com/dayyass/image_captioning) - trained Image Captioning model deployed as [telegram bot](https://t.me/dayyass_image_captioning_bot)
+- [Image Captioning](https://github.com/dayyass/image_captioning) - trained Image Captioning model deployed as [telegram bot](https://t.me/dayyass_image_captioning_bot) (currently off)
 - [PyTorch Tutorials](https://github.com/dayyass/pytorch_tutorials) - different Deep Learning tasks solved using PyTorch models
 - [Project Euler](https://github.com/dayyass/project_euler) - solutions to Project Euler problems
 - [Gists](https://gist.github.com/dayyass) - small experiments and useful functions
@@ -51,13 +51,6 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - [Simple ELMo](https://github.com/ltgoslo/simple_elmo) - simple library to work with pre-trained ELMo models in TensorFlow
 
 ### Skills 🛠️
-<!-- ![](https://img.shields.io/badge/Code-Python-informational?logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/VCS-Git-informational?logo=git&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8) -->
-
 - **Languages**:        [Python](https://www.coursera.org/account/accomplishments/certificate/NWZB93Q9CXY3), [SQL](https://www.coursera.org/account/accomplishments/certificate/VZE7GT5HHXNZ)
 - **DS/ML/DL**: &nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
 - **DBMS**:  &emsp;     Oracle Database (PL/SQL), Microsoft SQL Server (Transact-SQL)
@@ -66,24 +59,25 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Certifications 📜
 #### ML/DL
-- [Introduction to Machine Learning](https://www.coursera.org/account/accomplishments/certificate/DPLHFXLT94L5) @ *Coursera*
-- [Supervised Learning](https://www.coursera.org/account/accomplishments/certificate/AQTVYCMJEHRU) @ *Coursera*
-- [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ *Coursera*
-- [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ *Coursera*
-- [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ *Coursera*
+- [Introduction to Machine Learning](https://www.coursera.org/account/accomplishments/certificate/DPLHFXLT94L5) @ Coursera
+- [Supervised Learning](https://www.coursera.org/account/accomplishments/certificate/AQTVYCMJEHRU) @ Coursera
+- [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
+- [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
+- [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
 #### DevOps
-- [Introduction to Linux](https://stepik.org/cert/144831) @ *Stepik*
-- [Version Control with Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM) @ *Coursera*
-- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ *Stepik*
+- [Introduction to Linux](https://stepik.org/cert/144831) @ Stepik
+- [Version Control with Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM) @ Coursera
+- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ Stepik
 
 More certifications in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Awards 🏆
-- Open Data Science *Best Contributor 2020*
+- Open Data Science **Best Contributor 2020**
+- Awesome GitHub Profile README (Category: [Descriptive 🗒](https://github.com/abhisheknaiidu/awesome-github-profile-readme#descriptive-))
 
 ### Conference participation 📈
-- *IX International Scientific and Practical Conference named after A.I. Kitov "Information Technologies and Mathematical Methods in Economics and Management"* ([website](https://it-mm.rea.ru/eng) and [certificate](https://it-mm.rea.ru/uploads/arhiv/2019/sertificat/299.pdf))
-- *Deep and Machine Learning methods for document clustering and classification* [tutorial](https://indico-hlit.jinr.ru/event/146/overview) in frames of *The XXIII International Scientific Conference of Young Scientists and Specialists (AYSS-2019)* ([website](https://indico.jinr.ru/event/756/))
+- IX International Scientific and Practical Conference named after A.I. Kitov "Information Technologies and Mathematical Methods in Economics and Management" ([website](https://it-mm.rea.ru/eng) and [certificate](https://it-mm.rea.ru/uploads/arhiv/2019/sertificat/299.pdf))
+- Deep and Machine Learning methods for document clustering and classification [tutorial](https://indico-hlit.jinr.ru/event/146/overview) in frames of The XXIII International Scientific Conference of Young Scientists and Specialists (AYSS-2019) ([website](https://indico.jinr.ru/event/756/))
 
 ### Hackathon participation 💻
 - [Synthetic Health Data Hackathon 2020](https://github.com/dayyass/synthetic_health_data_hackathon_2020) Alzheimer's MRI Analysis
