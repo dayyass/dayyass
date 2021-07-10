@@ -6,18 +6,19 @@
 [![](https://img.shields.io/twitter/follow/d_ayyass?style=social&label=Follow)](https://twitter.com/d_ayyass)
 
 ### Hi, my name is Dani 👋 and I ❤️ open-source
-### 
 I’m currently studying for a **Master’s degree** in Applied Mathematics and Computer Science at *Lomonosov Moscow State University*, *Faculty of Computational Mathematics and Cybernetics*.<br>
 I’m also working as a **Senior NLP Engineer** at *Sber AI*.
 
 In my spare time, I like to learn something new about *Machine Learning / Deep Learning* and implement different models. For more information, please visit my [projects](https://github.com/dayyass#projects-) and [blog](https://dayyass.github.io).
 
 ### Work experience 👔
-- **Senior NLP Engineer** @ *Sber AI* (01.04.2021 — until now)
-- Senior NLP Research Engineer @ *Tinkoff AI Lab* (01.02.2021 — 01.04.2021)
-- Middle NLP Engineer @ *MTS AI Lab* (01.05.2020 — 01.02.2021)
-- Junior Data Scientist @ *Sberbank* (01.07.2018 — 01.05.2020)
-- Research Assistant @ *Plekhanov Russian University of Economics* (01.12.2018 — 01.01.2020)
+| Job Position                 | Company                                    | Work Period             |
+| ---------------------------- | ------------------------------------------ | ----------------------- |
+| Senior NLP Engineer          | Sber AI                                    | 01.04.2021 — until now  |
+| Senior NLP Research Engineer | Tinkoff AI Lab                             | 01.02.2021 — 01.04.2021 |
+| Middle NLP Engineer          | MTS AI Lab                                 | 01.05.2020 — 01.02.2021 |
+| Junior Data Scientist        | Sberbank                                   | 01.07.2018 — 01.05.2020 |
+| Research Assistant           | Plekhanov Russian University of Economics  | 01.12.2018 — 01.01.2020 |
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/).<br>
 My solutions for *Home Assignments* for *Machine Learning Job Interviews*: [link](https://github.com/dayyass/ml_interviews)
@@ -36,8 +37,8 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - [PyTorch NER](https://github.com/dayyass/pytorch_ner) - pipeline for training NER models using PyTorch
 - [Calculus of Variations](https://github.com/dayyass/calculus_of_variations) - bachelor project on solving the Calculus of Variations problems
 #### Additional
-- [Language Modeling](https://github.com/dayyass/language_modeling) - pipeline for training Language Models using PyTorch
 - [Neural Machine Translation](https://github.com/dayyass/neural_machine_translation) - pipeline for training Stanford Seq2seq Neural Machine Translation using PyTorch
+- [Language Modeling](https://github.com/dayyass/language_modeling) - pipeline for training Language Models using PyTorch
 - [Image Captioning](https://github.com/dayyass/image_captioning) - trained Image Captioning model deployed as [telegram bot](https://t.me/dayyass_image_captioning_bot)
 - [PyTorch Tutorials](https://github.com/dayyass/pytorch_tutorials) - different Deep Learning tasks solved using PyTorch models
 - [Project Euler](https://github.com/dayyass/project_euler) - solutions to Project Euler problems
@@ -57,11 +58,11 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 ![](https://img.shields.io/badge/VCS-Git-informational?logo=git&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8) -->
 
-- **Languages**: [Python](https://www.coursera.org/account/accomplishments/certificate/NWZB93Q9CXY3), [SQL](https://www.coursera.org/account/accomplishments/certificate/VZE7GT5HHXNZ)
-- **DS/ML/DL**:  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
-- **DBMS**:      Oracle Database (PL/SQL), Microsoft SQL Server (Transact-SQL)
-- **Big Data**:  [Hadoop, Hive, Spark](https://stepik.org/cert/166893)
-- **DevOps**:    [Linux](https://stepik.org/cert/144831), [Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM), Docker, CI
+- **Languages**:        [Python](https://www.coursera.org/account/accomplishments/certificate/NWZB93Q9CXY3), [SQL](https://www.coursera.org/account/accomplishments/certificate/VZE7GT5HHXNZ)
+- **DS/ML/DL**: &nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
+- **DBMS**:  &emsp;     Oracle Database (PL/SQL), Microsoft SQL Server (Transact-SQL)
+- **Big Data**:  &emsp; [Hadoop, Hive, Spark](https://stepik.org/cert/166893)
+- **DevOps**:  &ensp;   [Linux](https://stepik.org/cert/144831), [Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM), Docker, CI
 
 ### Certifications 📜
 #### ML/DL
