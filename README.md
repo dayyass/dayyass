@@ -86,4 +86,4 @@ More certifications in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 <a href="https://www.buymeacoffee.com/dayyass" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ### Github Stats ⭐
-[![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dayyass)](https://github.com/anuraghazra/github-readme-stats)
+[![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dayyass&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
