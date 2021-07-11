@@ -58,7 +58,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - **DevOps**:  &ensp;   [Linux](https://stepik.org/cert/144831), [Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM), Docker, CI
 
 ### Certifications 📜
-#### ML/DL
+#### DS/ML/DL
 - [Introduction to Machine Learning](https://www.coursera.org/account/accomplishments/certificate/DPLHFXLT94L5) @ Coursera
 - [Supervised Learning](https://www.coursera.org/account/accomplishments/certificate/AQTVYCMJEHRU) @ Coursera
 - [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
