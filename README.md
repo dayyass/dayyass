@@ -82,8 +82,5 @@ More certifications in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 ### Hackathon participation 💻
 - [Synthetic Health Data Hackathon 2020](https://github.com/dayyass/synthetic_health_data_hackathon_2020) Alzheimer's MRI Analysis
 
-### If you like what I do, maybe consider buying me a coffee/tea 😇❤️‍🔥
-<a href="https://www.buymeacoffee.com/dayyass" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 ### Github Stats ⭐
 [![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dayyass&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
