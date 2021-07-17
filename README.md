@@ -14,7 +14,7 @@ In my spare time, I like to learn something new about **Machine Learning / Deep 
 ### Work experience 👔
 | Job Position                 | Company                                    | Work Period             |
 | ---------------------------- | ------------------------------------------ | ----------------------- |
-| Senior NLP Engineer          | Sber AI                                    | 01.04.2021 — until now  |
+| NLP Tech Lead                | Sber AI                                    | 01.04.2021 — until now  |
 | Senior NLP Research Engineer | Tinkoff AI Lab                             | 01.02.2021 — 01.04.2021 |
 | Middle NLP Engineer          | MTS AI Lab                                 | 01.05.2020 — 01.02.2021 |
 | Junior Data Scientist        | Sberbank                                   | 01.07.2018 — 01.05.2020 |
