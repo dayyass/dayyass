@@ -7,7 +7,7 @@
 
 ### Hi, my name is Dani 👋 and I ❤️ open-source
 I’m currently studying for a **Master’s degree** in Applied Mathematics and Computer Science at Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics.<br>
-I’m also working as a **Senior NLP Engineer** at Sber AI.
+I’m also working as a **NLP Tech Lead** at Sber AI.
 
 In my spare time, I like to learn something new about **Machine Learning / Deep Learning** and implement different models. For more information, please visit my [projects](https://github.com/dayyass#projects-).
 
