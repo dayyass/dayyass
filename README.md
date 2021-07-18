@@ -48,8 +48,8 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - [GAN for Tabular Data](https://github.com/Diyago/GAN-for-tabular-data) - GANs for tabular data
 - [Grokking Algorithms](https://github.com/egonSchiele/grokking_algorithms) - excellent, fully illustrated book about algorithms
 - [AllenNLP Guide](https://github.com/allenai/allennlp-guide) - code and material for the AllenNLP Guide
-- [Made With ML](https://github.com/GokuMohandas/MadeWithML) - applied ML and MLOps courses
 - [Simple ELMo](https://github.com/ltgoslo/simple_elmo) - simple library to work with pre-trained ELMo models in TensorFlow
+<!-- - [Made With ML](https://github.com/GokuMohandas/MadeWithML) - applied ML and MLOps courses -->
 
 ### Skills 🛠️
 - **Languages**:        [Python](https://www.coursera.org/account/accomplishments/certificate/NWZB93Q9CXY3), [SQL](https://www.coursera.org/account/accomplishments/certificate/VZE7GT5HHXNZ)
