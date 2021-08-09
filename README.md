@@ -35,8 +35,8 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - [MUSE as Service](https://github.com/dayyass/muse_as_service) - REST API for sentence tokenization and embedding using Multilingual Universal Sentence Encoder
 - [PyTorch NER](https://github.com/dayyass/pytorch_ner) - pipeline for training NER models using PyTorch
 - [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for fast building text classification TF-IDF + LogReg baselines
+- [Extended Naive Bayes](https://github.com/dayyass/extended_naive_bayes) - extension of sklearn naive bayes models that allows sampling and more feature distributions
 - [Calculus of Variations](https://github.com/dayyass/calculus_of_variations) - bachelor project on solving the Calculus of Variations problems
-<!-- - [Extended Naive Bayes](https://github.com/dayyass/extended_naive_bayes) - extension of sklearn naive bayes models that allows sampling and more feature distributions -->
 
 #### Additional
 - [Neural Machine Translation](https://github.com/dayyass/neural_machine_translation) - pipeline for training Stanford Seq2seq Neural Machine Translation using PyTorch
