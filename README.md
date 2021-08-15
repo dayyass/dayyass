@@ -58,7 +58,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - **DS/ML/DL**: &nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
 - **DBMS**:  &emsp;     Oracle (PL/SQL), MS SQL (Transact-SQL)
 - **Big Data**:  &emsp; [Hadoop, Hive, Spark](https://stepik.org/cert/166893)
-- **DevOps**:  &ensp;   [Linux](https://stepik.org/cert/144831), [Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM), REST API, Docker, CI
+- **DevOps**:  &ensp;   [Linux](https://stepik.org/cert/144831), [Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM), Docker, REST API, CI
 
 ### Certifications 📜
 #### DS/ML/DL
