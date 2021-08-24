@@ -46,6 +46,9 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - [Project Euler](https://github.com/dayyass/project_euler) - solutions to Project Euler problems
 - [Gists](https://gist.github.com/dayyass) - small experiments and useful functions
 
+### Public talks 🗣️
+- [Web-service for Sentence Embeddings](https://youtu.be/ZayiaA84oXg) @ Sberloga
+
 ### Contributions 💡
 - [GAN for Tabular Data](https://github.com/Diyago/GAN-for-tabular-data) - GANs for tabular data
 - [Grokking Algorithms](https://github.com/egonSchiele/grokking_algorithms) - excellent, fully illustrated book about algorithms
