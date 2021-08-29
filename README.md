@@ -1,13 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=dayyass&color=6aa6f8)<br>
 ![](https://img.shields.io/github/followers/dayyass?style=social)
 ![](https://img.shields.io/github/stars/dayyass?style=social)
-
-<!-- [![](https://img.shields.io/badge/-Follow-black?style=social&logo=Linkedin)](https://www.linkedin.com/in/dayyass)
-[![](https://img.shields.io/twitter/follow/d_ayyass?style=social&label=Follow)](https://twitter.com/d_ayyass) -->
+<!-- [![](https://img.shields.io/badge/-Follow-black?style=social&logo=Linkedin)](https://www.linkedin.com/in/dayyass) -->
+<!-- [![](https://img.shields.io/twitter/follow/d_ayyass?style=social&label=Follow)](https://twitter.com/d_ayyass) -->
 
 ### Hi, my name is Dani 👋 and I ❤️ open-source
 - **NLP Tech Lead** at Sber AI
-- **Master’s degree** student in Applied Mathematics and Computer Science at Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics
+- **Master Student** at CMC MSU
 
 ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period             |
@@ -17,8 +16,6 @@
 | Middle NLP Engineer   | MTS AI Lab     | NER with Pseudo-Labeling        | 01.05.2020 — 01.02.2021 |
 | Junior Data Scientist | Sberbank       | ML with Tabular Data, CV        | 01.07.2018 — 01.05.2020 |
 | Research Assistant    | Plekhanov RUE  | Research in DS, ML, Big Data    | 01.12.2018 — 01.01.2020 |
-
-research related to data science, machine learning and Big Data
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/).<br>
 My solutions for Home Assignments for **Machine Learning Job Interviews**: [link](https://github.com/dayyass/ml_interviews)
