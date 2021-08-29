@@ -8,6 +8,8 @@
 - **NLP Tech Lead** at Sber AI
 - **Master Student** at CMC MSU
 
+**Field of interests**: NLP, RL, DevOps
+
 ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
