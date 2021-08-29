@@ -10,13 +10,13 @@
 - **Master’s degree** student in Applied Mathematics and Computer Science at Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics
 
 ### Work experience 👔
-| Job Position                 | Company                                    | Work Period             |
-| ---------------------------- | ------------------------------------------ | ----------------------- |
-| NLP Tech Lead                | Sber AI                                    | 01.04.2021 — until now  |
-| Senior NLP Research Engineer | Tinkoff AI Lab                             | 01.02.2021 — 01.04.2021 |
-| Middle NLP Engineer          | MTS AI Lab                                 | 01.05.2020 — 01.02.2021 |
-| Junior Data Scientist        | Sberbank                                   | 01.07.2018 — 01.05.2020 |
-| Research Assistant           | Plekhanov Russian University of Economics  | 01.12.2018 — 01.01.2020 |
+| Job Position          | Company        | Work Period             |
+| --------------------- | -------------- | ----------------------- |
+| NLP Tech Lead         | Sber AI        | 01.04.2021 — until now  |
+| Senior NLP Engineer   | Tinkoff AI Lab | 01.02.2021 — 01.04.2021 |
+| Middle NLP Engineer   | MTS AI Lab     | 01.05.2020 — 01.02.2021 |
+| Junior Data Scientist | Sberbank       | 01.07.2018 — 01.05.2020 |
+| Research Assistant    | Plekhanov RUE  | 01.12.2018 — 01.01.2020 |
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/).<br>
 My solutions for Home Assignments for **Machine Learning Job Interviews**: [link](https://github.com/dayyass/ml_interviews)
