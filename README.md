@@ -10,6 +10,13 @@
 
 **Field of interests**: NLP, RL, DevOps
 
+### Skills 🛠️
+- **Languages**:        [Python](https://www.coursera.org/account/accomplishments/certificate/NWZB93Q9CXY3)
+- **DS/ML/DL**: &nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
+- **RDBMS**:   &nbsp;   [Oracle, MS SQL](https://www.coursera.org/account/accomplishments/certificate/VZE7GT5HHXNZ)
+- **Big Data**:  &emsp; [Hadoop, Hive, Spark](https://stepik.org/cert/166893)
+- **DevOps**:  &ensp;   [Linux](https://stepik.org/cert/144831), [Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM), Docker, REST API, CI
+
 ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
@@ -38,9 +45,6 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - [Extended Naive Bayes](https://github.com/dayyass/extended_naive_bayes) - extension of sklearn Naive Bayes models that allows more feature distributions and sampling
 - [Minor Projects](https://github.com/dayyass/minor_projects) - list of my other minor projects
 
-### Public talks 🗣️
-- [Web-service for Sentence Embeddings](https://youtu.be/ZayiaA84oXg) @ Sberloga
-
 ### Contributions 💡
 - [GAN for Tabular Data](https://github.com/Diyago/GAN-for-tabular-data) - GANs for tabular data
 - [Grokking Algorithms](https://github.com/egonSchiele/grokking_algorithms) - excellent, fully illustrated book about algorithms
@@ -48,12 +52,8 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 <!-- - [Simple ELMo](https://github.com/ltgoslo/simple_elmo) - simple library to work with pre-trained ELMo models in TensorFlow -->
 <!-- - [Made With ML](https://github.com/GokuMohandas/MadeWithML) - applied ML and MLOps courses -->
 
-### Skills 🛠️
-- **Languages**:        [Python](https://www.coursera.org/account/accomplishments/certificate/NWZB93Q9CXY3)
-- **DS/ML/DL**: &nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
-- **RDBMS**:   &nbsp;   [Oracle, MS SQL](https://www.coursera.org/account/accomplishments/certificate/VZE7GT5HHXNZ)
-- **Big Data**:  &emsp; [Hadoop, Hive, Spark](https://stepik.org/cert/166893)
-- **DevOps**:  &ensp;   [Linux](https://stepik.org/cert/144831), [Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM), Docker, REST API, CI
+### Public talks 🗣️
+- [Web-service for Sentence Embeddings](https://youtu.be/ZayiaA84oXg) @ Sberloga
 
 ### Certifications 📜
 #### DS/ML/DL
