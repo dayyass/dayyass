@@ -23,7 +23,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/
 My solutions for Home Assignments for **Machine Learning Job Interviews**: [link](https://github.com/dayyass/ml_interviews)
 
 ### Education 🎓
-- **Master’s degree** in Applied Mathematics and Computer Science at Lomonosov Moscow State University (2019 - 2022)
+- **Master’s degree** in Applied Mathematics and Computer Science at Lomonosov Moscow State University (2019 - 2022)<br>
 [Coursework](https://github.com/dayyass/prior_knowledge_layer_for_sequence_tagging): "Prior knowledge layer for sequence tagging"
 - **Bachelor's degree** in Applied Mathematics and Computer Science at Plekhanov Russian University of Economics (2015 - 2019)<br>
 [Diploma thesis](https://github.com/dayyass/bachelor_diploma): "Assessment of credit organizations borrowers' default rate"
