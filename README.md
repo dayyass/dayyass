@@ -69,16 +69,16 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 More certifications in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
-### Awards 🏆
-- Open Data Science **Best Contributor 2020**
-- Awesome GitHub Profile README (Category: [Descriptive 🗒](https://github.com/abhisheknaiidu/awesome-github-profile-readme#descriptive-))
-
 ### Conference participation 📈
 - IX International Scientific and Practical Conference named after A.I. Kitov "Information Technologies and Mathematical Methods in Economics and Management" ([website](https://it-mm.rea.ru/eng) and [certificate](https://it-mm.rea.ru/uploads/arhiv/2019/sertificat/299.pdf))
 - Deep and Machine Learning methods for document clustering and classification [tutorial](https://indico-hlit.jinr.ru/event/146/overview) in frames of The XXIII International Scientific Conference of Young Scientists and Specialists (AYSS-2019) ([website](https://indico.jinr.ru/event/756/))
 
 ### Hackathon participation 💻
 - [Synthetic Health Data Hackathon 2020](https://github.com/dayyass/synthetic_health_data_hackathon_2020) Alzheimer's MRI Analysis
+
+### Awards 🏆
+- Open Data Science **Best Contributor 2020**
+- Awesome GitHub Profile README (Category: [Descriptive 🗒](https://github.com/abhisheknaiidu/awesome-github-profile-readme#descriptive-))
 
 ### Github Stats ⭐
 [![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dayyass&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
