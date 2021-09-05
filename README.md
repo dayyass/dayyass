@@ -31,15 +31,12 @@ My solutions for Home Assignments for **Machine Learning Job Interviews**: [link
 More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Projects 🐾
-#### Main
 - [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
 - [PyTorch NER](https://github.com/dayyass/pytorch_ner) - pipeline for training NER models using PyTorch
 - [MUSE as Service](https://github.com/dayyass/muse_as_service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
 - [Extended Naive Bayes](https://github.com/dayyass/extended_naive_bayes) - extension of sklearn Naive Bayes models that allows more feature distributions and sampling
 - [Calculus of Variations](https://github.com/dayyass/calculus_of_variations) - bachelor project on solving the Calculus of Variations problems
-
-#### Additional
-[Neural Machine Translation](https://github.com/dayyass/neural_machine_translation), [Language Modeling](https://github.com/dayyass/language_modeling), [Image Captioning](https://github.com/dayyass/image_captioning), [PyTorch Tutorials](https://github.com/dayyass/pytorch_tutorials), [Project Euler](https://github.com/dayyass/project_euler), [Gists](https://gist.github.com/dayyass)
+- [Neural Machine Translation](https://github.com/dayyass/neural_machine_translation), [Language Modeling](https://github.com/dayyass/language_modeling), [Image Captioning](https://github.com/dayyass/image_captioning), [PyTorch Tutorials](https://github.com/dayyass/pytorch_tutorials), [Project Euler](https://github.com/dayyass/project_euler), [Gists](https://gist.github.com/dayyass) - other
 
 ### Public talks 🗣️
 - [Web-service for Sentence Embeddings](https://youtu.be/ZayiaA84oXg) @ Sberloga
