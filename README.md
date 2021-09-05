@@ -24,6 +24,7 @@ My solutions for Home Assignments for **Machine Learning Job Interviews**: [link
 
 ### Education 🎓
 - **Master’s degree** in Applied Mathematics and Computer Science at Lomonosov Moscow State University (2019 - 2022)
+[Coursework](https://github.com/dayyass/prior_knowledge_layer_for_sequence_tagging): "Prior knowledge layer for sequence tagging"
 - **Bachelor's degree** in Applied Mathematics and Computer Science at Plekhanov Russian University of Economics (2015 - 2019)<br>
 [Diploma thesis](https://github.com/dayyass/bachelor_diploma): "Assessment of credit organizations borrowers' default rate"
 
@@ -31,10 +32,10 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Projects 🐾
 #### Main
-- [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for fast building text classification TF-IDF + LogReg baselines
+- [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
 - [PyTorch NER](https://github.com/dayyass/pytorch_ner) - pipeline for training NER models using PyTorch
-- [MUSE as Service](https://github.com/dayyass/muse_as_service) - REST API for sentence tokenization and embedding using Multilingual Universal Sentence Encoder
-- [Extended Naive Bayes](https://github.com/dayyass/extended_naive_bayes) - extension of sklearn Naive Bayes models that allows sampling and more feature distributions
+- [MUSE as Service](https://github.com/dayyass/muse_as_service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
+- [Extended Naive Bayes](https://github.com/dayyass/extended_naive_bayes) - extension of sklearn Naive Bayes models that allows more feature distributions and sampling
 - [Calculus of Variations](https://github.com/dayyass/calculus_of_variations) - bachelor project on solving the Calculus of Variations problems
 
 #### Additional
@@ -56,9 +57,9 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 <!-- - [Made With ML](https://github.com/GokuMohandas/MadeWithML) - applied ML and MLOps courses -->
 
 ### Skills 🛠️
-- **Languages**:        [Python](https://www.coursera.org/account/accomplishments/certificate/NWZB93Q9CXY3), [SQL](https://www.coursera.org/account/accomplishments/certificate/VZE7GT5HHXNZ)
+- **Languages**:        [Python](https://www.coursera.org/account/accomplishments/certificate/NWZB93Q9CXY3)
 - **DS/ML/DL**: &nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
-- **DBMS**:  &emsp;     Oracle (PL/SQL), MS SQL (Transact-SQL)
+- **RDBMS**:  &emsp;    [Oracle, MS SQL](https://www.coursera.org/account/accomplishments/certificate/VZE7GT5HHXNZ)
 - **Big Data**:  &emsp; [Hadoop, Hive, Spark](https://stepik.org/cert/166893)
 - **DevOps**:  &ensp;   [Linux](https://stepik.org/cert/144831), [Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM), Docker, REST API, CI
 
