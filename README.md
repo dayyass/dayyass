@@ -39,12 +39,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - [Calculus of Variations](https://github.com/dayyass/calculus_of_variations) - bachelor project on solving the Calculus of Variations problems
 
 #### Additional
-- [Neural Machine Translation](https://github.com/dayyass/neural_machine_translation) - pipeline for training Stanford Seq2seq Neural Machine Translation using PyTorch
-- [Language Modeling](https://github.com/dayyass/language_modeling) - pipeline for training Language Models using PyTorch
-- [Image Captioning](https://github.com/dayyass/image_captioning) - trained Image Captioning model deployed as [telegram bot](https://t.me/dayyass_image_captioning_bot) (currently off)
-- [PyTorch Tutorials](https://github.com/dayyass/pytorch_tutorials) - different Deep Learning tasks solved using PyTorch models
-- [Project Euler](https://github.com/dayyass/project_euler) - solutions to Project Euler problems
-- [Gists](https://gist.github.com/dayyass) - small experiments and useful functions
+[Neural Machine Translation](https://github.com/dayyass/neural_machine_translation), [Language Modeling](https://github.com/dayyass/language_modeling), [Image Captioning](https://github.com/dayyass/image_captioning), [PyTorch Tutorials](https://github.com/dayyass/pytorch_tutorials), [Project Euler](https://github.com/dayyass/project_euler), [Gists](https://gist.github.com/dayyass)
 
 ### Public talks 🗣️
 - [Web-service for Sentence Embeddings](https://youtu.be/ZayiaA84oXg) @ Sberloga
@@ -59,7 +54,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 ### Skills 🛠️
 - **Languages**:        [Python](https://www.coursera.org/account/accomplishments/certificate/NWZB93Q9CXY3)
 - **DS/ML/DL**: &nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
-- **RDBMS**:  &emsp;    [Oracle, MS SQL](https://www.coursera.org/account/accomplishments/certificate/VZE7GT5HHXNZ)
+- **RDBMS**:   &nbsp;   [Oracle, MS SQL](https://www.coursera.org/account/accomplishments/certificate/VZE7GT5HHXNZ)
 - **Big Data**:  &emsp; [Hadoop, Hive, Spark](https://stepik.org/cert/166893)
 - **DevOps**:  &ensp;   [Linux](https://stepik.org/cert/144831), [Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM), Docker, REST API, CI
 
