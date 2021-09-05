@@ -23,10 +23,11 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/
 My solutions for Home Assignments for **Machine Learning Job Interviews**: [link](https://github.com/dayyass/ml_interviews)
 
 ### Education 🎓
-- **Master’s degree** in Applied Mathematics and Computer Science at Lomonosov Moscow State University (2019 - 2022)<br>
-[Coursework](https://github.com/dayyass/prior_knowledge_layer_for_sequence_tagging): "Prior knowledge layer for sequence tagging"
-- **Bachelor's degree** in Applied Mathematics and Computer Science at Plekhanov Russian University of Economics (2015 - 2019)<br>
-[Diploma thesis](https://github.com/dayyass/bachelor_diploma): "Assessment of credit organizations borrowers' default rate"
+- **Master’s degree** in Applied Mathematics and Computer Science at Lomonosov Moscow State University (2019 - 2022)
+  - [Coursework](https://github.com/dayyass/prior_knowledge_layer_for_sequence_tagging): "Prior knowledge layer for sequence tagging"
+- **Bachelor's degree** in Applied Mathematics and Computer Science at Plekhanov Russian University of Economics (2015 - 2019)
+  - [Diploma thesis](https://github.com/dayyass/bachelor_diploma): "Assessment of credit organizations borrowers' default rate"
+  - [Calculus of Variations](https://github.com/dayyass/calculus_of_variations) - bachelor project on solving the Calculus of Variations problems
 
 More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
@@ -35,7 +36,6 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - [PyTorch NER](https://github.com/dayyass/pytorch_ner) - pipeline for training NER models using PyTorch
 - [MUSE as Service](https://github.com/dayyass/muse_as_service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
 - [Extended Naive Bayes](https://github.com/dayyass/extended_naive_bayes) - extension of sklearn Naive Bayes models that allows more feature distributions and sampling
-- [Calculus of Variations](https://github.com/dayyass/calculus_of_variations) - bachelor project on solving the Calculus of Variations problems
 - [Minor Projects](https://github.com/dayyass/minor_projects) - list of my other minor projects
 
 ### Public talks 🗣️
