@@ -54,6 +54,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Public talks 🗣️
 - [Web-service for Sentence Embeddings](https://youtu.be/ZayiaA84oXg) @ Sberloga
+- [Git Hooks Is All You Need](https://youtu.be/92OMAtdVIAs) @ Sberloga
 
 ### Certifications 📜
 #### DS/ML/DL
