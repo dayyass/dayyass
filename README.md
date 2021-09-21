@@ -43,6 +43,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - [PyTorch NER](https://github.com/dayyass/pytorch_ner) - pipeline for training NER models using PyTorch
 - [MUSE as Service](https://github.com/dayyass/muse_as_service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
 - [Extended Naive Bayes](https://github.com/dayyass/extended_naive_bayes) - extension of sklearn Naive Bayes models that allows more feature distributions and sampling
+- [Graph-Based Clustering](https://github.com/dayyass/graph-based-clustering) - clustering using graph connected components and spanning trees
 - [Minor Projects](https://github.com/dayyass/minor_projects) - list of my other minor projects
 
 ### Contributions 💡
