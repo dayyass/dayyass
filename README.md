@@ -8,7 +8,7 @@
 - **NLP Tech Lead** at Sber AI
 - **Master Student** at CMC MSU
 
-**Field of interests**: NLP, RL, DevOps
+**Field of interests**: NLP, RL, Graphs, DevOps
 
 ### Skills 🛠️
 - **Languages**:        [Python](https://www.coursera.org/account/accomplishments/certificate/NWZB93Q9CXY3)
