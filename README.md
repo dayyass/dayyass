@@ -56,6 +56,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 ### Public talks 🗣️
 - [Web-service for Sentence Embeddings](https://youtu.be/ZayiaA84oXg) @ Sberloga
 - [Git Hooks Is All You Need](https://youtu.be/92OMAtdVIAs) @ Sberloga
+- [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club
 
 ### Certifications 📜
 #### DS/ML/DL
