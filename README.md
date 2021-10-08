@@ -81,7 +81,7 @@ More certifications in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - [Synthetic Health Data Hackathon 2020](https://github.com/dayyass/synthetic_health_data_hackathon_2020) Alzheimer's MRI Analysis
 
 ### Achievements 🏆
-- Published 3 packages to **PyPI**
+- Published 4 packages to **PyPI**
 - Contributor to **SciPy**
 - Open Data Science **Best Contributor 2020**
 - Awesome GitHub Profile README (Category: [Descriptive 🗒](https://github.com/abhisheknaiidu/awesome-github-profile-readme#descriptive-))
