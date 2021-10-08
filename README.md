@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=dayyass&color=6aa6f8)<br>
-![](https://img.shields.io/github/followers/dayyass?style=social)
-![](https://img.shields.io/github/stars/dayyass?style=social)
+![](https://img.shields.io/github/followers/dayyass?style=social)<br>
+![](https://img.shields.io/github/stars/dayyass?style=social)<br>
 <!-- [![](https://img.shields.io/badge/-Follow-black?style=social&logo=Linkedin)](https://www.linkedin.com/in/dayyass) -->
 <!-- [![](https://img.shields.io/twitter/follow/d_ayyass?style=social&label=Follow)](https://twitter.com/d_ayyass) -->
 
