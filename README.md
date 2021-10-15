@@ -39,12 +39,14 @@ My solutions for Home Assignments for **Machine Learning Job Interviews**: [link
 More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Projects 🐾
+#### NLP
 - [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
 - [Latent Semantic Analysis](https://github.com/dayyass/latent-semantic-analysis) - pipeline for training LSA models using Scikit-Learn
 - [PyTorch NER](https://github.com/dayyass/pytorch_ner) - pipeline for training NER models using PyTorch
 - [MUSE as Service](https://github.com/dayyass/muse_as_service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
-- [Extended Naive Bayes](https://github.com/dayyass/extended_naive_bayes) - extension of Scikit-Learn Naive Bayes models that allows more feature distributions and sampling
+#### Other
 - [Graph-Based Clustering](https://github.com/dayyass/graph-based-clustering) - clustering using graph connected components and spanning trees
+- [Extended Naive Bayes](https://github.com/dayyass/extended_naive_bayes) - extension of Scikit-Learn Naive Bayes models that allows more feature distributions and sampling
 - [Minor Projects](https://github.com/dayyass/minor_projects) - list of my other minor projects
 
 ### Contributions 💡
