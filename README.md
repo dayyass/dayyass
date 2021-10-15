@@ -26,15 +26,15 @@
 | Junior Data Scientist | Sberbank       | ML with Tabular Data, CV        | 01.07.2018 — 01.05.2020    |
 | Research Assistant    | Plekhanov RUE  | Research in DS, ML, Big Data    | 01.12.2018 — 01.01.2020    |
 
-More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/).<br>
-My solutions for Home Assignments for **Machine Learning Job Interviews**: [link](https://github.com/dayyass/ml_interviews)
+More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/)
+My solutions for Home Assignments for **Machine Learning Job Interviews**: [link](https://github.com/dayyass/ml-interviews)
 
 ### Education 🎓
 - **Master’s degree** in Applied Mathematics and Computer Science at Lomonosov Moscow State University (2019 - 2022)
-  - [Coursework](https://github.com/dayyass/prior_knowledge_layer_for_sequence_tagging): "Prior knowledge layer for sequence tagging"
+  - [Coursework](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging): "Prior knowledge layer for sequence tagging"
 - **Bachelor's degree** in Applied Mathematics and Computer Science at Plekhanov Russian University of Economics (2015 - 2019)
-  - [Diploma thesis](https://github.com/dayyass/bachelor_diploma): "Assessment of credit organizations borrowers' default rate"
-  - [Calculus of Variations](https://github.com/dayyass/calculus_of_variations) - bachelor project on solving the Calculus of Variations problems
+  - [Diploma thesis](https://github.com/dayyass/bachelor-diploma): "Assessment of credit organizations borrowers' default rate"
+  - [Calculus of Variations](https://github.com/dayyass/calculus-of-variations) - bachelor project on solving the Calculus of Variations problems
 
 More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
@@ -42,12 +42,12 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 #### NLP
 - [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
 - [Latent Semantic Analysis](https://github.com/dayyass/latent-semantic-analysis) - pipeline for training LSA models using Scikit-Learn
-- [PyTorch NER](https://github.com/dayyass/pytorch_ner) - pipeline for training NER models using PyTorch
-- [MUSE as Service](https://github.com/dayyass/muse_as_service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
+- [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
+- [MUSE as Service](https://github.com/dayyass/muse-as-service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
 #### Other
 - [Graph-Based Clustering](https://github.com/dayyass/graph-based-clustering) - clustering using graph connected components and spanning trees
-- [Extended Naive Bayes](https://github.com/dayyass/extended_naive_bayes) - extension of Scikit-Learn Naive Bayes models that allows more feature distributions and sampling
-- [Minor Projects](https://github.com/dayyass/minor_projects) - list of my other minor projects
+- [Extended Naive Bayes](https://github.com/dayyass/extended-naive-bayes) - extension of Scikit-Learn Naive Bayes models that allows more feature distributions and sampling
+- [Minor Projects](https://github.com/dayyass/minor-projects) - list of my other minor projects
 
 ### Contributions 💡
 - [GAN for Tabular Data](https://github.com/Diyago/GAN-for-tabular-data) - GANs for tabular data
