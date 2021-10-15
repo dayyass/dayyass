@@ -27,6 +27,7 @@
 | Research Assistant    | Plekhanov RUE  | Research in DS, ML, Big Data    | 01.12.2018 — 01.01.2020    |
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/)
+
 My solutions for Home Assignments for **Machine Learning Job Interviews**: [link](https://github.com/dayyass/ml-interviews)
 
 ### Education 🎓
