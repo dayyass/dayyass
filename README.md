@@ -50,6 +50,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - [Extended Naive Bayes](https://github.com/dayyass/extended-naive-bayes) - extension of Scikit-Learn Naive Bayes models that allows more feature distributions and sampling
 - [Minor Projects](https://github.com/dayyass/minor-projects) - list of my other minor projects
 
+<!--
 ### Contributions 💡
 - [GAN for Tabular Data](https://github.com/Diyago/GAN-for-tabular-data) - GANs for tabular data
 - [Grokking Algorithms](https://github.com/egonSchiele/grokking_algorithms) - excellent, fully illustrated book about algorithms
