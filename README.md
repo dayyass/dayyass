@@ -86,7 +86,7 @@ More certifications in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Achievements 🏆
 - Published [5 packages](https://pypi.org/user/dayyass/) to **PyPI**
-- Contributor to **SciPy**
+- Contributor to **SciPy**, **Scikit-Learn**, **PyTorch**
 - Open Data Science **Best Contributor 2020**
 - Awesome GitHub Profile README (Category: [Descriptive 🗒](https://github.com/abhisheknaiidu/awesome-github-profile-readme#descriptive-))
 
