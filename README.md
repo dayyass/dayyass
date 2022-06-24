@@ -11,11 +11,11 @@
 **Field of interests**: NLP, RL, Graphs, MLOps
 
 ### Skills 🛠️
-- **Languages**:        [Python](https://www.coursera.org/account/accomplishments/certificate/NWZB93Q9CXY3)
-- **DS/ML/DL**: &nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
-- **RDBMS**:   &nbsp;   [MySQL, PostgreSQL, Oracle, MS SQL](https://www.coursera.org/account/accomplishments/certificate/VZE7GT5HHXNZ)
-- **Big Data**:  &emsp; [Hadoop, HDFS, MapReduce, Hive, Spark](https://stepik.org/cert/166893)
-- **DevOps**:  &ensp;   [Linux](https://stepik.org/cert/144831), [Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM), Docker, CI
+- **Languages**: &nbsp;        Python
+- **DS/ML/DL**: &nbsp;&nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
+- **RDBMS**:   &nbsp;&nbsp;   MySQL, PostgreSQL, Oracle, MS SQL
+- **Big Data**:  &emsp;&nbsp; Hadoop, HDFS, MapReduce, Hive, Spark
+- **DevOps**:  &ensp;&nbsp;   Linux, Git, Docker, CI
 
 ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
