@@ -20,7 +20,7 @@
 ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
-| **NLP Tech Lead**     | **Sber AI**    | **NLP, DevOps, Mentoring**      | **01.04.2021 — until now** |
+| **NLP Tech Lead**     | **Sber AI**    | **NLP, MLOps, Mentoring**      | **01.04.2021 — until now** |
 | Senior NLP Engineer   | Tinkoff AI Lab | Virtual Assistant "Oleg"        | 01.02.2021 — 01.04.2021    |
 | Middle NLP Engineer   | MTS AI Lab     | NER with Pseudo-Labeling        | 01.05.2020 — 01.02.2021    |
 | Junior Data Scientist | Sberbank       | ML with Tabular Data, CV        | 01.07.2018 — 01.05.2020    |
