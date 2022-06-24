@@ -8,14 +8,14 @@
 - **NLP Tech Lead** at Sber AI
 - **Master Student** at CMC MSU
 
-**Field of interests**: NLP, RL, Graphs, DevOps
+**Field of interests**: NLP, RL, Graphs, MLOps
 
 ### Skills 🛠️
 - **Languages**:        [Python](https://www.coursera.org/account/accomplishments/certificate/NWZB93Q9CXY3)
 - **DS/ML/DL**: &nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
-- **RDBMS**:   &nbsp;   [Oracle, MS SQL](https://www.coursera.org/account/accomplishments/certificate/VZE7GT5HHXNZ)
-- **Big Data**:  &emsp; [Hadoop, Hive, Spark](https://stepik.org/cert/166893)
-- **DevOps**:  &ensp;   [Linux](https://stepik.org/cert/144831), [Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM), Docker, REST API, CI
+- **RDBMS**:   &nbsp;   [MySQL, PostgreSQL, Oracle, MS SQL](https://www.coursera.org/account/accomplishments/certificate/VZE7GT5HHXNZ)
+- **Big Data**:  &emsp; [Hadoop, HDFS, MapReduce, Hive, Spark](https://stepik.org/cert/166893)
+- **DevOps**:  &ensp;   [Linux](https://stepik.org/cert/144831), [Git](https://www.coursera.org/account/accomplishments/certificate/8NLLEX6PAFUM), Docker, CI
 
 ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
@@ -42,13 +42,12 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 ### Projects 🐾
 #### NLP
 - [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
-- [Latent Semantic Analysis](https://github.com/dayyass/latent-semantic-analysis) - pipeline for training LSA models using Scikit-Learn
+- [QaNER](https://github.com/dayyass/QaNER) - Unofficial implementation of QaNER paper (NER via Question Answering)
 - [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
 - [MUSE as Service](https://github.com/dayyass/muse-as-service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
 #### Other
 - [Graph-Based Clustering](https://github.com/dayyass/graph-based-clustering) - clustering using graph connected components and spanning trees
 - [Extended Naive Bayes](https://github.com/dayyass/extended-naive-bayes) - extension of Scikit-Learn Naive Bayes models that allows more feature distributions and sampling
-- [Minor Projects](https://github.com/dayyass/minor-projects) - list of my other minor projects
 
 <!--
 ### Contributions 💡
