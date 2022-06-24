@@ -13,7 +13,7 @@
 ### Skills 🛠️
 - **Languages**: &nbsp;        Python
 - **DS/ML/DL**: &nbsp;&nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
-- **RDBMS**:   &nbsp;&nbsp;   MySQL, PostgreSQL, Oracle, MS SQL
+- **RDBMS**:   &nbsp;&nbsp;   MySQL, PostgreSQL, Oracle, MSSQL
 - **Big Data**:  &emsp;&nbsp; Hadoop, HDFS, MapReduce, Hive, Spark
 - **DevOps**:  &ensp;&nbsp;   Linux, Git, Docker, CI
 
@@ -42,7 +42,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 ### Projects 🐾
 #### NLP
 - [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
-- [QaNER](https://github.com/dayyass/QaNER) - Unofficial implementation of QaNER paper (NER via Question Answering)
+- [QaNER](https://github.com/dayyass/QaNER) - unofficial implementation of QaNER paper (NER via Question Answering)
 - [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
 - [MUSE as Service](https://github.com/dayyass/muse-as-service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
 #### Other
@@ -58,7 +58,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 <!-- - [Made With ML](https://github.com/GokuMohandas/MadeWithML) - applied ML and MLOps courses -->
 
 ### Public talks 🗣️
-- [Web-service for Sentence Embeddings](https://youtu.be/ZayiaA84oXg) @ Sberloga
+- [Web-Service for Sentence Embeddings](https://youtu.be/ZayiaA84oXg) @ Sberloga
 - [Git Hooks Is All You Need](https://youtu.be/92OMAtdVIAs) @ Sberloga
 - [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club
 
