@@ -5,7 +5,7 @@
 <!-- [![](https://img.shields.io/twitter/follow/d_ayyass?style=social&label=Follow)](https://twitter.com/d_ayyass) -->
 
 ### Hi, my name is Dani 👋 and I ❤️ open-source
-- **NLP Tech Lead** at Sber AI
+- **NLP Tech Lead** at Sber AI Сenter
 - **Master Student** at CMC MSU
 
 **Field of interests**: NLP, RL, Graphs, MLOps
@@ -18,13 +18,13 @@
 - **DevOps**:  &ensp;&nbsp;   Linux, Git, Docker, CI
 
 ### Work experience 👔
-| Job Position          | Company        | Field                           | Work Period                |
-| --------------------- | -------------- | ------------------------------- | -------------------------- |
-| **NLP Tech Lead**     | **Sber AI**    | **NLP, MLOps, Mentoring**      | **01.04.2021 — until now** |
-| Senior NLP Engineer   | Tinkoff AI Lab | Virtual Assistant "Oleg"        | 01.02.2021 — 01.04.2021    |
-| Middle NLP Engineer   | MTS AI Lab     | NER with Pseudo-Labeling        | 01.05.2020 — 01.02.2021    |
-| Junior Data Scientist | Sberbank       | ML with Tabular Data, CV        | 01.07.2018 — 01.05.2020    |
-| Research Assistant    | Plekhanov RUE  | Research in DS, ML, Big Data    | 01.12.2018 — 01.01.2020    |
+| Job Position          | Company               | Field                           | Work Period                |
+| --------------------- | --------------------- | ------------------------------- | -------------------------- |
+| **NLP Tech Lead**     | **Sber AI Сenter**    | **NLP, MLOps, Mentoring**      | **01.04.2021 — until now** |
+| Senior NLP Engineer   | Tinkoff AI Lab        | Virtual Assistant "Oleg"        | 01.02.2021 — 01.04.2021    |
+| Middle NLP Engineer   | MTS AI Lab            | NER with Pseudo-Labeling        | 01.05.2020 — 01.02.2021    |
+| Junior Data Scientist | Sberbank              | ML with Tabular Data, CV        | 01.07.2018 — 01.05.2020    |
+| Research Assistant    | Plekhanov RUE         | Research in DS, ML, Big Data    | 01.12.2018 — 01.01.2020    |
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/)
 
