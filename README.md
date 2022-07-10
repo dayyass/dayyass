@@ -40,14 +40,13 @@ My solutions for Home Assignments for **Machine Learning Job Interviews**: [link
 More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Projects 🐾
-#### NLP
-- [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
 - [QaNER](https://github.com/dayyass/QaNER) - unofficial implementation of QaNER paper (NER via Question Answering)
-- [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
+- [RLLib](https://github.com/dayyass/rllib) - reinforcement learning library
 - [MUSE as Service](https://github.com/dayyass/muse-as-service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
-#### Other
+- [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
+- [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
 - [Graph-Based Clustering](https://github.com/dayyass/graph-based-clustering) - clustering using graph connected components and spanning trees
-- [Extended Naive Bayes](https://github.com/dayyass/extended-naive-bayes) - extension of Scikit-Learn Naive Bayes models that allows more feature distributions and sampling
+<!-- - [Extended Naive Bayes](https://github.com/dayyass/extended-naive-bayes) - extension of Scikit-Learn Naive Bayes models that allows more feature distributions and sampling -->
 
 <!--
 ### Contributions 💡
@@ -84,7 +83,7 @@ More certifications in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - [Synthetic Health Data Hackathon 2020](https://github.com/dayyass/synthetic_health_data_hackathon_2020) Alzheimer's MRI Analysis
 
 ### Achievements 🏆
-- Published [6 packages](https://pypi.org/user/dayyass/) to **PyPI**
+- Published [7 packages](https://pypi.org/user/dayyass/) to **PyPI**
 - Contributor to **SciPy**, **Scikit-Learn**, **PyTorch**
 - Co-author of **Quantum Machine Learning Community** [**Course**](https://github.com/SemyonSinchenko/qmlcourse)
 - Open Data Science **Best Contributor 2020**
