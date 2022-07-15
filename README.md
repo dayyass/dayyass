@@ -22,7 +22,7 @@
 | Junior Data Scientist | Sberbank              | ML with Tabular Data, CV        | 01.07.2018 — 01.05.2020    |
 | Research Assistant    | Plekhanov RUE         | Research in DS, ML, Big Data    | 01.12.2018 — 01.01.2020    |
 
-More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/)
+More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Education 🎓
 - **Master’s degree** in Applied Mathematics and Computer Science at Lomonosov Moscow State University (2019 - 2023)
