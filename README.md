@@ -3,8 +3,6 @@
 ![](https://img.shields.io/github/stars/dayyass?style=social)<br>
 
 ### Hi, my name is Dani 👋 and I ❤️ open-source
-- **NLP Tech Lead** at Sber AI Сenter
-- **Master Student** at CMC MSU
 
 **Field of interests**: NLP, RL, MLOps, Graphs, Distributed Systems
 
@@ -26,10 +24,8 @@
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/)
 
-My solutions for Home Assignments for **Machine Learning Job Interviews**: [link](https://github.com/dayyass/ml-interviews)
-
 ### Education 🎓
-- **Master’s degree** in Applied Mathematics and Computer Science at Lomonosov Moscow State University (2019 - 2022)
+- **Master’s degree** in Applied Mathematics and Computer Science at Lomonosov Moscow State University (2019 - 2023)
   - [Coursework](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging): "Prior knowledge layer for sequence tagging"
 - **Bachelor's degree** in Applied Mathematics and Computer Science at Plekhanov Russian University of Economics (2015 - 2019)
   - [Diploma thesis](https://github.com/dayyass/bachelor-diploma): "Assessment of credit organizations borrowers' default rate"
