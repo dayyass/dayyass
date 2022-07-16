@@ -7,10 +7,9 @@
 **Field of interests**: NLP, RL, MLOps, Graphs, Distributed Systems
 
 ### Skills 🛠️
-- **Languages**: &nbsp;       Python
+- **Languages**: &nbsp;       Python, SQL
 - **DS/ML/DL**: &nbsp;&nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
-- **RDBMS**:   &nbsp;&nbsp;   MySQL, PostgreSQL, Oracle, MSSQL
-- **Big Data**:  &emsp;&nbsp; Hadoop, HDFS, MapReduce, Hive, Spark
+- **Big Data**:  &emsp;&nbsp; Hadoop, Hive, Spark
 - **DevOps**:  &ensp;&nbsp;   Linux, Git, Docker, CI/CD
 
 ### Work experience 👔
