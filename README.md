@@ -69,4 +69,4 @@ More certifications in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - Awesome GitHub Profile README (Category: [Descriptive 🗒](https://github.com/abhisheknaiidu/awesome-github-profile-readme#descriptive-))
 
 ### Github Stats ⭐
-[![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dayyass&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dayyass&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
