@@ -68,5 +68,5 @@ More certifications in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - Open Data Science **Best Contributor 2020**
 - Awesome GitHub Profile README (Category: [Descriptive 🗒](https://github.com/abhisheknaiidu/awesome-github-profile-readme#descriptive-))
 
-### Github Stats ⭐
+### GitHub Stats ⭐
 [![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dayyass&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
