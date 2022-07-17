@@ -33,7 +33,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/dayyass/
 More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
 ### Projects 🐾
-- [QaNER](https://github.com/dayyass/QaNER) - unofficial implementation of QaNER paper (NER via Question Answering)
+- [QaNER](https://github.com/dayyass/QaNER) - unofficial implementation of QaNER paper (NER via Extractive Question Answering)
 - [RLLib](https://github.com/dayyass/rllib) - Reinforcement Learning library
 - [MUSE as Service](https://github.com/dayyass/muse-as-service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
 - [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
