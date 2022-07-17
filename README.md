@@ -63,7 +63,7 @@ More certifications in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 ### Achievements 🏆
 - Published [7 packages](https://pypi.org/user/dayyass/) to **PyPI**
 - Contributor to **SciPy**, **Scikit-Learn**, **PyTorch**
-- Co-author of **Quantum Machine Learning Community** [**Course**](https://github.com/SemyonSinchenko/qmlcourse)
+- Co-author of **Quantum Machine Learning** Community [Course](https://github.com/SemyonSinchenko/qmlcourse)
 - Open Data Science **Best Contributor 2020**
 - Awesome GitHub Profile README (Category: [Descriptive 🗒](https://github.com/abhisheknaiidu/awesome-github-profile-readme#descriptive-))
 
