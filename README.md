@@ -41,15 +41,15 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - [Graph-Based Clustering](https://github.com/dayyass/graph-based-clustering) - clustering using graph connected components and spanning trees
 
 ### Public talks 🗣️
-- [Web-Service for Sentence Embeddings](https://youtu.be/ZayiaA84oXg) @ Sberloga
-- [Git Hooks Is All You Need](https://youtu.be/92OMAtdVIAs) @ Sberloga
 - [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club
+- [Git Hooks Is All You Need](https://youtu.be/92OMAtdVIAs) @ Sberloga
+- [Web-Service for Sentence Embeddings](https://youtu.be/ZayiaA84oXg) @ Sberloga
 
 ### Certifications 📜
-- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ Stepik
-- [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
-- [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
 - [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
+- [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
+- [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
+- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ Stepik
 
 More certifications in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 
