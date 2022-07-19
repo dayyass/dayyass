@@ -8,7 +8,7 @@
 
 ### Skills 🛠️
 - **Languages**: &nbsp;       Python, SQL
-- **DS/ML/DL**: &nbsp;&nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
+- **DS/ML/DL**: &nbsp;&nbsp;  NumPy, SciPy, Pandas, Sklearn, PyTorch, Transformers
 - **Big Data**:  &emsp;&nbsp; Hadoop, Hive, Spark
 - **DevOps**:  &ensp;&nbsp;   Linux, Git, Docker, CI/CD
 
