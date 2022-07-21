@@ -40,10 +40,11 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
 - [Graph-Based Clustering](https://github.com/dayyass/graph-based-clustering) - clustering using graph connected components and spanning trees
 
-### Public talks 🗣️
-- [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club
+### Public talks 🗣
+- [QaNER - NER via Exractive QA](https://youtu.be/JRec8FpjhpM) @ Sberloga
 - [Git Hooks Is All You Need](https://youtu.be/92OMAtdVIAs) @ Sberloga
 - [Web-Service for Sentence Embeddings](https://youtu.be/ZayiaA84oXg) @ Sberloga
+- [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club
 
 ### Certifications 📜
 - [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
