@@ -62,7 +62,7 @@ More certifications in my [LinkedIn](https://www.linkedin.com/in/dayyass/).
 - [Synthetic Health Data Hackathon 2020](https://github.com/dayyass/synthetic_health_data_hackathon_2020) Alzheimer's MRI Analysis
 
 ### Achievements 🏆
-- Published [8 packages](https://pypi.org/user/dayyass/) to **PyPI**
+- Published [9 packages](https://pypi.org/user/dayyass/) to **PyPI**
 - Contributor to **PyTorch**, **Scikit-Learn**, **SciPy**
 - Co-author of **Quantum Machine Learning** Community [Course](https://github.com/SemyonSinchenko/qmlcourse)
 - Open Data Science **Best Contributor 2020**
