@@ -64,7 +64,7 @@
 - [Synthetic Health Data Hackathon 2020](https://github.com/dayyass/synthetic_health_data_hackathon_2020) Alzheimer's MRI Analysis
 
 ### Achievements 🏆
-- Published [10 packages](https://pypi.org/user/dayyass/) to **PyPI** with **16k+** downloads
+- Published [10 packages](https://pypi.org/user/dayyass/) to **PyPI** with [16k+](https://pepy.tech) downloads
 - Contributor to **PyTorch**, **Scikit-Learn**, **SciPy**
 - Open Data Science **Best Contributor 2020**
 <!--- - Co-author of **Quantum Machine Learning** Community [Course](https://github.com/SemyonSinchenko/qmlcourse) -->
