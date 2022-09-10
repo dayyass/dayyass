@@ -45,6 +45,7 @@
 <!--- - [MilkShakeLang](https://github.com/dayyass/milkshakelang) - The MilkShake Programming language -->
 
 ### Public talks 🗣
+- [From Model to Service: Flask + Gunicorn + Docker](https://youtu.be/onPlqEO0lN0) @ Sberloga
 - [QaNER - NER via Exractive QA](https://youtu.be/JRec8FpjhpM) @ Sberloga
 - [Git Hooks Is All You Need](https://youtu.be/92OMAtdVIAs) @ Sberloga
 - [Web-Service for Sentence Embeddings](https://youtu.be/ZayiaA84oXg) @ Sberloga
