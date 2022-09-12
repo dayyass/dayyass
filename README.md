@@ -3,11 +3,10 @@
 ![](https://img.shields.io/github/stars/dayyass?style=social)<br>
 
 ### Hi, my name is Dani 👋 and I ❤️ open-source
-<br>
 
 **Field of interests**: NLP, RL, MLOps, Graphs, Distributed Systems
 
-**Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf)
+<!--- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
 
 ### Skills 🛠️
 - **Languages**: &nbsp;                          Python, SQL
@@ -16,21 +15,17 @@
 - **DevOps**:  &nbsp;&nbsp;&nbsp;&nbsp;          Linux, Git, Docker, CI/CD
 
 ### Work experience 👔
-| Job Position                     | Company            | Field                        | Work Period                |
-| -------------------------------- | ------------------ | ---------------------------- | -------------------------- |
-| **NLP Tech Lead, Product Owner** | **Sber AI Сenter** | **NLP, MLOps, Mentoring**    | **01.05.2021 — until now** |
-| Senior NLP Engineer              | Tinkoff AI Lab     | Virtual Assistant "Oleg"     | 01.02.2021 — 01.04.2021    |
-| Middle NLP Engineer              | MTS AI Lab         | NER with Pseudo-Labeling     | 01.05.2020 — 01.02.2021    |
-| Junior Data Scientist            | Sberbank           | ML with Tabular Data, CV     | 01.07.2018 — 01.05.2020    |
-<!--- | Research Assistant               | Plekhanov RUE      | Research in DS, ML, Big Data | 01.12.2018 — 01.01.2020    | -->
+| Job Position                 | Company            | Field                        | Work Period                |
+| ---------------------------- | ------------------ | ---------------------------- | -------------------------- |
+| **Tech Lead, Product Owner** | **Sber AI Сenter** | **NLP, MLOps, Mentoring**    | **01.05.2021 — until now** |
+| Senior NLP Engineer          | Tinkoff AI Lab     | Virtual Assistant "Oleg"     | 01.02.2021 — 01.04.2021    |
+| Middle NLP Engineer          | MTS AI Lab         | NER with Pseudo-Labeling     | 01.05.2020 — 01.02.2021    |
+| Junior Data Scientist        | Sberbank           | ML with Tabular Data, CV     | 01.07.2018 — 01.05.2020    |
+| Research Assistant           | Plekhanov RUE      | Research in DS, ML, Big Data | 01.12.2018 — 01.01.2020    |
 
 ### Education 🎓
-- **Master’s degree** (2019 - 2023)
-  - Applied Mathematics and Computer Science
-  - Lomonosov Moscow State University
-- **Bachelor's degree** (2015 - 2019)
-  - Applied Mathematics and Computer Science
-  - Plekhanov Russian University of Economics
+- **Master’s degree** @ Lomonosov Moscow State University (2019 - 2023)
+- **Bachelor's degree** @ Plekhanov Russian University of Economics (2015 - 2019)
 <!--- - [Coursework](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging): "Prior knowledge layer for sequence tagging" -->
 <!--- - [Diploma thesis](https://github.com/dayyass/bachelor-diploma): "Assessment of credit organizations borrowers' default rate" -->
 <!--- - [Calculus of Variations](https://github.com/dayyass/calculus-of-variations) - bachelor project on solving the Calculus of Variations problems -->
