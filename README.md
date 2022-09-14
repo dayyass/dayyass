@@ -24,11 +24,8 @@
 | Research Assistant           | Plekhanov RUE      | Research in DS, ML, Big Data | 01.12.2018 — 01.01.2020    |
 
 ### Education 🎓
-- **Master’s degree** @ Lomonosov Moscow State University (2019 - 2023)
-- **Bachelor's degree** @ Plekhanov Russian University of Economics (2015 - 2019)
-<!--- - [Coursework](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging): "Prior knowledge layer for sequence tagging" -->
-<!--- - [Diploma thesis](https://github.com/dayyass/bachelor-diploma): "Assessment of credit organizations borrowers' default rate" -->
-<!--- - [Calculus of Variations](https://github.com/dayyass/calculus-of-variations) - bachelor project on solving the Calculus of Variations problems -->
+- [Master’s degree](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging) @ Lomonosov Moscow State University (2019 - 2023)
+- [Bachelor's degree](https://github.com/dayyass/bachelor-diploma) @ Plekhanov Russian University of Economics (2015 - 2019)
 
 ### Projects 🐾
 - [QaNER](https://github.com/dayyass/QaNER) - unofficial implementation of QaNER paper (NER via Extractive Question Answering)
@@ -44,7 +41,7 @@
 - [QaNER - NER via Exractive QA](https://youtu.be/JRec8FpjhpM) @ Sberloga
 - [Git Hooks Is All You Need](https://youtu.be/92OMAtdVIAs) @ Sberloga
 - [Web-Service for Sentence Embeddings](https://youtu.be/ZayiaA84oXg) @ Sberloga
-<!--- - [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club -->
+- [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club
 
 ### Certifications 📜
 - [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
