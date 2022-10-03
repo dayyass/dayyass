@@ -54,7 +54,8 @@
 - Deep and Machine Learning methods for document clustering and classification [tutorial](https://indico-hlit.jinr.ru/event/146/overview) in frames of The XXIII International Scientific [Conference](https://indico.jinr.ru/event/756) of Young Scientists and Specialists (AYSS-2019)
 
 ### Hackathon participation 💻
-- [Synthetic Health Data Hackathon 2020](https://github.com/dayyass/synthetic_health_data_hackathon_2020) Alzheimer's MRI Analysis
+- [deNews](https://ethglobal.com/showcase/denews-djqvk) @ ETHOnline 2022
+- [Alzheimer's MRI Analysis](https://github.com/dayyass/synthetic_health_data_hackathon_2020) @ Synthetic Health Data Hackathon 2020
 
 ### Achievements 🏆
 - Published [10 packages](https://pypi.org/user/dayyass/) to **PyPI** with [16k+](https://pepy.tech) downloads
