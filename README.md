@@ -22,7 +22,6 @@
 | Senior NLP Engineer          | Tinkoff AI Lab     | Virtual Assistant "Oleg"     | 01.02.2021 — 01.04.2021    |
 | Middle NLP Engineer          | MTS AI Lab         | NER with Pseudo-Labeling     | 01.05.2020 — 01.02.2021    |
 | Junior Data Scientist        | Sberbank           | ML with Tabular Data, CV     | 01.07.2018 — 01.05.2020    |
-| Research Assistant           | Plekhanov RUE      | Research in DS, ML, Big Data | 01.12.2018 — 01.01.2020    |
 
 ### Education 🎓
 - [Master’s degree](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging) @ Lomonosov Moscow State University (2019 - 2023)
@@ -35,7 +34,6 @@
 - [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
 - [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
 - [Graph-Based Clustering](https://github.com/dayyass/graph-based-clustering) - clustering using graph connected components and spanning trees
-<!--- - [MilkShakeLang](https://github.com/dayyass/milkshakelang) - The MilkShake Programming language -->
 
 ### Public talks 🗣
 - [From Model to Service: Flask + Gunicorn + Docker](https://youtu.be/onPlqEO0lN0) @ Sberloga
@@ -62,8 +60,6 @@
 - Published [10 packages](https://pypi.org/user/dayyass/) to **PyPI** with [16k+](https://pepy.tech) downloads
 - Contributor to **PyTorch**, **Scikit-Learn**, **SciPy**
 - Open Data Science **Best Contributor 2020**
-<!--- - Co-author of **Quantum Machine Learning** Community [Course](https://github.com/SemyonSinchenko/qmlcourse) -->
-<!--- - Awesome GitHub Profile README (Category: [Descriptive 🗒](https://github.com/abhisheknaiidu/awesome-github-profile-readme#descriptive-)) -->
 
 ### GitHub Stats ⭐
 [![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dayyass&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
