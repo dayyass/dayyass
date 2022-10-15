@@ -64,4 +64,4 @@
 ### GitHub Stats ⭐
 [![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dayyass&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-More information in my [LinkedIn](https://www.linkedin.com/in/dayyass/)
+More information in my [LinkedIn](https://www.linkedin.com/in/dayyass/) 🚀
