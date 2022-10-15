@@ -48,9 +48,9 @@
 - [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
 - [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ Stepik
 
-### Conference participation 📈
+<!--- ### Conference participation 📈
 - IX International Scientific and Practical [Conference](https://it-mm.rea.ru/eng) named after A.I. Kitov "Information Technologies and Mathematical Methods in Economics and Management"
-- Deep and Machine Learning methods for document clustering and classification [tutorial](https://indico-hlit.jinr.ru/event/146/overview) in frames of The XXIII International Scientific [Conference](https://indico.jinr.ru/event/756) of Young Scientists and Specialists (AYSS-2019)
+- Deep and Machine Learning methods for document clustering and classification [tutorial](https://indico-hlit.jinr.ru/event/146/overview) in frames of The XXIII International Scientific [Conference](https://indico.jinr.ru/event/756) of Young Scientists and Specialists (AYSS-2019)  -->
 
 ### Hackathon participation 💻
 - [deNews](https://ethglobal.com/showcase/denews-djqvk) @ ETHOnline 2022
