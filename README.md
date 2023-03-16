@@ -12,16 +12,16 @@
 - **Languages**: &nbsp;                          Python, SQL
 - **DS/ML/DL**: &nbsp;&nbsp;                     Sklearn, PyTorch, Transformers
 - **Big Data**:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Hadoop, Hive, Spark
-- **DevOps**:  &nbsp;&nbsp;&nbsp;&nbsp;          Linux, Git, Docker, CI/CD
+- **DevOps**:  &nbsp;&nbsp;&nbsp;&nbsp;          Linux, Git, Docker
 
 ### Work experience 👔
-| Job Position                 | Company            | Field                        | Work Period                |
-| ---------------------------- | ------------------ | ---------------------------- | -------------------------- |
-| **Team Lead**                | **SberDevices**    | **Search**                   | **01.10.2022 — until now** |
-| Tech Lead, Product Owner     | Sber AI Сenter     | NLP, MLOps, Mentoring        | 01.05.2021 — 01.10.2022    |
-| Senior NLP Engineer          | Tinkoff AI Lab     | Virtual Assistant "Oleg"     | 01.02.2021 — 01.04.2021    |
-| Middle NLP Engineer          | MTS AI Lab         | NER with Pseudo-Labeling     | 01.05.2020 — 01.02.2021    |
-| Junior Data Scientist        | Sberbank           | ML with Tabular Data, CV     | 01.07.2018 — 01.05.2020    |
+| Job Position                 | Company            | Field                        | Work Period             |
+| ---------------------------- | ------------------ | ---------------------------- | ----------------------- |
+| **ML Team Lead**             | **SberDevices**    | **Search**                   | **2022-10 — until now** |
+| NLP Tech Lead                | Sber AI Lab        | NLP, MLOps, Mentoring        | 2021-05 — 2022-10       |
+| Senior NLP Engineer          | Tinkoff AI Lab     | Virtual Assistant "Oleg"     | 2021-02 — 2021-04       |
+| Middle NLP Engineer          | MTS AI Lab         | NER with Pseudo-Labeling     | 2020-05 — 2021-02       |
+| Junior Data Scientist        | Sberbank           | ML with Tabular Data, CV     | 2018-07 — 2020-05       |
 
 ### Education 🎓
 - [Master’s degree](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging) @ Lomonosov Moscow State University (2019 - 2023)
@@ -57,7 +57,7 @@
 - [Alzheimer's MRI Analysis](https://github.com/dayyass/synthetic_health_data_hackathon_2020) @ Synthetic Health Data Hackathon 2020
 
 ### Achievements 🏆
-- Published [10 packages](https://pypi.org/user/dayyass/) to **PyPI** with [16k+](https://pepy.tech) downloads
+- Published [10 packages](https://pypi.org/user/dayyass/) to **PyPI** with [25k+](https://pepy.tech) downloads
 - Contributor to **PyTorch**, **Scikit-Learn**, **SciPy**
 - Open Data Science **Best Contributor 2020**
 
