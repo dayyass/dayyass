@@ -6,6 +6,8 @@
 
 **Field of interests**: NLP, RL, MLOps, Graphs, Distributed Systems
 
+**My telegram channel**: https://t.me/cats_shredinger
+
 <!--- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
 
 ### Skills 🛠️
