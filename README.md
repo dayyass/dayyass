@@ -19,7 +19,7 @@
 ### Work experience 👔
 | Job Position                 | Company            | Field                        | Work Period             |
 | ---------------------------- | ------------------ | ---------------------------- | ----------------------- |
-| **ML Team Lead**             | **SberDevices**    | **Search**                   | **2022-10 — until now** |
+| **ML Team Lead**             | **SberDevices**    | **Search, LLM, RLHF**        | **2022-10 — until now** |
 | NLP Tech Lead                | Sber AI Lab        | NLP, MLOps, Mentoring        | 2021-05 — 2022-10       |
 | Senior NLP Engineer          | Tinkoff AI Lab     | Virtual Assistant "Oleg"     | 2021-02 — 2021-04       |
 | Middle NLP Engineer          | MTS AI Lab         | NER with Pseudo-Labeling     | 2020-05 — 2021-02       |
