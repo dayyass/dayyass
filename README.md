@@ -11,10 +11,10 @@
 <!-- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
 
 ### Skills 🛠️
-- **Languages**: &nbsp;                        Python, SQL
-- **DS/ML/DL**: &nbsp;&nbsp;                   Sklearn, PyTorch, Transformers
+- **Languages**:&nbsp;                         Python, SQL
+- **DS/ML/DL**:  &nbsp;&nbsp;                  Sklearn, PyTorch, Transformers
 - **Big Data**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hadoop, Hive, Spark
-- **DevOps**: &nbsp;&nbsp;&nbsp;&nbsp;         Linux, Git, Docker
+- **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
 
 ### Work experience 👔
 | Job Position          | Company         | Field                    | Work Period       |
