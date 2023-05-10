@@ -17,13 +17,13 @@
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
 
 ### Work experience 👔
-| Job Position          | Company         | Field                    | Work Period       |
-| --------------------- | --------------- | ------------------------ | ----------------- |
-| **NLP Team Lead**     | **SberDevices** | **LLM, RLHF, Search**    | **2022-10 — now** |
-| NLP Tech Lead         | Sber AI Lab     | NLP, MLOps, Mentoring    | 2021-05 — 2022-10 |
-| Senior NLP Engineer   | Tinkoff AI Lab  | Virtual Assistant "Oleg" | 2021-02 — 2021-04 |
-| Middle NLP Engineer   | MTS AI Lab      | NER with Pseudo-Labeling | 2020-05 — 2021-02 |
-| Junior Data Scientist | Sberbank        | ML with Tabular Data, CV | 2018-07 — 2020-05 |
+| Job Position          | Company         | Field                           | Work Period       |
+| --------------------- | --------------- | ------------------------------- | ----------------- |
+| **NLP Team Lead**     | **SberDevices** | **GigaChat, LLM, RLHF, Search** | **2022-10 — now** |
+| NLP Tech Lead         | Sber AI Lab     | NLP, MLOps, Mentoring           | 2021-05 — 2022-10 |
+| Senior NLP Engineer   | Tinkoff AI Lab  | Virtual Assistant "Oleg"        | 2021-02 — 2021-04 |
+| Middle NLP Engineer   | MTS AI Lab      | NER with Pseudo-Labeling        | 2020-05 — 2021-02 |
+| Junior Data Scientist | Sberbank        | ML with Tabular Data, CV        | 2018-07 — 2020-05 |
 
 ### Education 🎓
 - [Master’s degree](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging) @ Lomonosov Moscow State University (2019 - 2023)
