@@ -4,7 +4,7 @@
 
 ### Hi, my name is Dani 👋 and I ❤️ open-source
 
-**Field of interests**: NLP, RL, MLOps, Graphs, Distributed Systems
+**Field of interests**: NLP, RL, Graphs, MLOps, Distributed Systems
 
 **My telegram channel**: [Cat's Shredinger](https://t.me/cats_shredinger)
 
