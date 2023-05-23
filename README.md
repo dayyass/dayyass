@@ -20,7 +20,7 @@
 | Job Position           | Company         | Field                         | Work Period       |
 | ---------------------- | --------------- | ----------------------------- | ----------------- |
 | **Research Scientist** | **SberDevices** | **AGI, LLM, RLHF, GigaChat**  | **2023-04 — now** |
-| NLP Team Lead          | SberDevices.    | Search, Information Retrieval | 2022-10 — 2023-04 |
+| NLP Team Lead          | SberDevices     | Search, Information Retrieval | 2022-10 — 2023-04 |
 | NLP Tech Lead          | Sber AI Lab     | NLP, MLOps, Mentoring         | 2021-05 — 2022-10 |
 | Senior NLP Engineer    | Tinkoff AI Lab  | Virtual Assistant "Oleg"      | 2021-02 — 2021-04 |
 | Middle NLP Engineer    | MTS AI Lab      | NER with Pseudo-Labeling      | 2020-05 — 2021-02 |
