@@ -2,7 +2,7 @@
 ![](https://img.shields.io/github/followers/dayyass?style=social)<br>
 ![](https://img.shields.io/github/stars/dayyass?style=social)<br>
 
-### Hi, my name is Dani 👋 and I ❤️ open-source
+### Hi, my name is Dani 👋 and I ❤️ AI and Open-Source
 
 **Field of interests**: NLP, RL, Graphs, MLOps, Distributed Systems
 
