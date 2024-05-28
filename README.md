@@ -62,7 +62,8 @@
 - [Alzheimer's MRI Analysis](https://github.com/dayyass/synthetic_health_data_hackathon_2020) @ Synthetic Health Data Hackathon 2020
 
 ### Achievements 🏆
-- Published [10 packages](https://pypi.org/user/dayyass/) to **PyPI** with [25k+](https://pepy.tech) downloads
+- Key contributor to [GigaChat](https://habr.com/ru/companies/sberbank/articles/730108/): Russian [most advanced](https://habr.com/ru/companies/sberdevices/articles/790470/) LLM
+- 500+ stars on GitHub and [10 packages](https://pypi.org/user/dayyass/) in **PyPI** with [38k+](https://pepy.tech) downloads
 - Contributor to **PyTorch**, **Scikit-Learn**, **SciPy**
 - Open Data Science **Best Contributor 2020**
 
