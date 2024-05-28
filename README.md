@@ -4,7 +4,7 @@
 
 ### Hi, my name is Dani 👋 and I ❤️ AI and Open-Source
 
-**Field of interests**: AGI, NLP, RL, Graphs, Distributed Systems
+**Field of interests**: LLM, NLP, RL, Graphs, Distributed Systems
 
 **My telegram channel**: [Cat's Shredinger](https://t.me/cats_shredinger)
 
@@ -13,24 +13,26 @@
 ### Skills 🛠️
 - **Languages**:&nbsp;                         Python, SQL
 - **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch, Transformers
-- **Big Data**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hadoop, Hive, Spark
+- **Big Data**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hadoop, Spark
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
 
 ### Work experience 👔
-| Job Position           | Company         | Field                         | Work Period       |
-| ---------------------- | --------------- | ----------------------------- | ----------------- |
-| **Research Scientist** | **SberDevices** | **AGI, LLM, RLHF, GigaChat**  | **2023-04 — now** |
-| NLP Team Lead          | SberDevices     | Search, Information Retrieval | 2022-10 — 2023-04 |
-| NLP Tech Lead          | Sber AI Lab     | NLP, MLOps, Mentoring         | 2021-05 — 2022-10 |
-| Senior NLP Engineer    | Tinkoff AI Lab  | Virtual Assistant "Oleg"      | 2021-02 — 2021-04 |
-| Middle NLP Engineer    | MTS AI Lab      | NER with Pseudo-Labeling      | 2020-05 — 2021-02 |
-| Junior Data Scientist  | Sberbank        | ML with Tabular Data, CV      | 2018-07 — 2020-05 |
+| Job Position            | Company                    | Field                            | Work Period       |
+| ----------------------- | -------------------------- | -------------------------------- | ----------------- |
+| **Head of NLP**         | **Social Discovery Group** | **Conversational AI, TheOne.ai** | **2024-05 — now** |
+| Research Scientist Lead | SberDevices                | LLM, GigaChat                    | 2023-04 — 2024-05 |
+| NLP Team Lead           | SberDevices                | Search, Information Retrieval    | 2022-10 — 2023-04 |
+| NLP Tech Lead           | Sber AI Lab                | NLP, MLOps, Mentoring            | 2021-05 — 2022-10 |
+| Senior NLP Engineer     | Tinkoff AI Lab             | Virtual Assistant "Oleg"         | 2021-02 — 2021-04 |
+| Middle NLP Engineer     | MTS AI Lab                 | NER with Pseudo-Labeling         | 2020-05 — 2021-02 |
+| Junior Data Scientist   | Sberbank                   | ML with Tabular Data, CV         | 2018-07 — 2020-05 |
 
 ### Education 🎓
 - [Master’s Degree](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging) @ Lomonosov Moscow State University (2019 - 2023)
 - [Bachelor's Degree](https://github.com/dayyass/bachelor-diploma) @ Plekhanov Russian University of Economics (2015 - 2019)
 
 ### Projects 🐾
+- [MUSE TF -> PT](https://github.com/dayyass/muse_tf2pt) - convert Multilingual Universal Sentence Encoder from TensorFlow to PyTorch and ONNX
 - [QaNER](https://github.com/dayyass/QaNER) - unofficial implementation of QaNER paper (NER via Extractive Question Answering)
 - [RLLib](https://github.com/dayyass/rllib) - Reinforcement Learning library
 - [MUSE as Service](https://github.com/dayyass/muse-as-service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
