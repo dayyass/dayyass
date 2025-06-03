@@ -17,15 +17,15 @@
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
 
 ### Work experience 👔
-| Job Position                  | Company                    | Field                         | Work Period       |
-| ----------------------------- | -------------------------- | ----------------------------- | ----------------- |
-| **Head of AI Transformation** | **Social Discovery Group** | **LLM, Conversational AI**    | **2024-05 — now** |
-| Research Scientist Lead       | SberDevices                | LLM, GigaChat                 | 2023-04 — 2024-05 |
-| NLP Team Lead                 | SberDevices                | Search, Information Retrieval | 2022-10 — 2023-04 |
-| NLP Tech Lead                 | Sber AI Lab                | NLP, MLOps, Mentoring         | 2021-05 — 2022-10 |
-| Senior NLP Engineer           | Tinkoff AI Lab             | Virtual Assistant "Oleg"      | 2021-02 — 2021-04 |
-| Middle NLP Engineer           | MTS AI Lab                 | NER with Pseudo-Labeling      | 2020-05 — 2021-02 |
-| Junior Data Scientist         | Sberbank                   | ML with Tabular Data, CV      | 2018-07 — 2020-05 |
+| Job Position                  | Company                    | Field                         | Work Period           |
+| ----------------------------- | -------------------------- | ----------------------------- | --------------------- |
+| **Head of AI Transformation** | **Social Discovery Group** | **LLM, Conversational AI**    | **2024-05 — 2025-03** |
+| Research Scientist Lead       | SberDevices                | LLM, GigaChat                 | 2023-04 — 2024-05     |
+| NLP Team Lead                 | SberDevices                | Search, Information Retrieval | 2022-10 — 2023-04     |
+| NLP Tech Lead                 | Sber AI Lab                | NLP, MLOps, Mentoring         | 2021-05 — 2022-10     |
+| Senior NLP Engineer           | Tinkoff AI Lab             | Virtual Assistant "Oleg"      | 2021-02 — 2021-04     |
+| Middle NLP Engineer           | MTS AI Lab                 | NER with Pseudo-Labeling      | 2020-05 — 2021-02     |
+| Junior Data Scientist         | Sberbank                   | ML with Tabular Data, CV      | 2018-07 — 2020-05     |
 
 ### Education 🎓
 - [Master’s Degree](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging) @ Lomonosov Moscow State University (2019 - 2023)
